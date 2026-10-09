@@ -290,10 +290,33 @@ experiencia.
 
 ---
 
-## 9. Un consejo sobre las entrevistas
+## 9. La frase
 
-Cuando pregunten *"¿por qué quiere hacer QA?"*, la respuesta corta y verdadera
-es:
+Esta es la respuesta corta y verdadera a *"¿por qué quiere hacer QA?"*. Está
+en el CV, en LinkedIn y en el portafolio, porque **es lo que te diferencia de
+cualquier candidato que solo haya hecho un curso**:
+
+> **"Vengo de dos años trabajando bajo Cero Defecto, donde un error mío paraba la
+> línea entera y se pagaba con plata de todos. Aprendí que un defecto se busca
+> hasta el origen, nunca se tapa. Ahora hago lo mismo con software, y tengo dos
+> proyectos donde lo apliqué."**
+
+**En el CV de una página**, arriba del todo, en lugar del titular:
+
+```
+NICOLÁS DE LOS SANTOS LEAL
+Analista de QA
+
+"Vengo de dos años trabajando bajo Cero Defecto, donde un error mío paraba la
+línea entera y se pagaba con plata de todos. Aprendí que un defecto se busca
+hasta el origen, nunca se tapa. Hoy hago lo mismo con software."
+```
+
+**Por qué funciona:** no es una frase de currículum. Es la razón por la que
+trabajaste dos años donde la mayoría de los que dicen "tengo experiencia en QA"
+no trabajaron ninguno, y es concreta: la línea, el error, el origen, el
+software.
+
 
 > *"Vengo de dos años en una línea de ensamblaje trabajando bajo cero defecto,
 > donde un error mío paraba la línea entera y se pagaba con plata de todos.
