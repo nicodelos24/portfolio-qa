@@ -19,10 +19,13 @@
 Es la que aparece bajo el nombre del repo. Máximo 350 caracteres.
 
 ```
-Analista de QA con dos aplicaciones propias probadas. Conocedor del rubro de restaurantes como bachero y mozo, operario de planta de ensamblaje, cajero y reponedor encargado de sector.
+Analista de QA con dos aplicaciones propias probadas. Dos años de garantía de calidad industrial con filosofía Cero Defecto, más experiencia en cocina, caja y reposición.
 ```
 
-**Tiene 218 caracteres**, así que entra sin problema.
+**Tiene 197 caracteres**, así que entra sin problema.
+
+> Quité "mozo" de la descripción como me pediste: queda en el currículum
+> como puesto real, pero no es una de las experiencias que definen el perfil.
 
 ---
 

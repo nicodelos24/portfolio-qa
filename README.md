@@ -109,25 +109,13 @@ Lo que más resultados dio, y está detallado en la metodología de cada proyect
 
 ## Herramientas
 
-### Las he usado
-
 | Herramienta | Para qué |
 | --- | --- |
 | **Git y GitHub** | Versionado, historial y comparación entre versiones |
 | **Katalon Recorder** | Grabación y reproducción de recorridos |
 | **Excel** | Registro de casos, defectos y resultados |
 
-### Lo que sé, con lo que sé
-
-| Herramienta | Estado real |
-| --- | --- |
-| **Jira** | Sé para qué sirve: registrar y seguir defectos. **No lo he usado** |
-| **Playwright** | Está en el proyecto y lo vi correr. **No lo escribí yo** |
-| **Confluence, Postman, Xray, TestRail** | **No los conozco.** No los pongo porque no quiero dar a entender algo que no sé |
-| **Cypress** | Hice las bases en un curso, sin uso reciente |
-| **SQL, ISTQB Foundation** | Pendientes de aprender |
-
----
+En formación: **SQL** e **ISTQB Foundation**.
 
 ## Formación
 

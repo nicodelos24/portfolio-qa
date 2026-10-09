@@ -87,23 +87,18 @@ hay que responder exacto.
 | --- | --- |
 | **Git y GitHub** | Versionado, historial y comparación entre versiones |
 | **Katalon Recorder** | Grabación y reproducción de recorridos |
-| **Excel y Markdown** | Registro de casos, defectos y resultados |
-
-### Lo que sé, con lo que sé
-
-| Herramienta | Estado real |
-| --- | --- |
-| **Jira** | Sé para qué sirve: registrar y seguir defectos. **No lo he usado** |
-| **Playwright** | Está en el proyecto y lo vi correr. **No lo escribí yo** |
-| **Confluence, Postman, Xray** | **No los conozco.** No los pongo porque no quiero dar a entender algo que no sé |
+| **Excel** | Registro de casos, defectos y resultados |
 
 ### En formación
 
 | | |
 | --- | --- |
-| **Cypress** | Hice las bases en un curso anterior, pero no lo uso desde entonces. **No lo presento como experiencia comprobable** |
 | **SQL** | Quiero aprenderlo: aparece en casi todos los avisos de QA |
-| **ISTQB Foundation** | Certificacion que todavía no tengo |
+| **ISTQB Foundation** | Certificación que todavía no tengo |
+
+> **No listo herramientas que no conozco.** Preferimos que falte información a
+> que sobre: un reclutador que descubre una exageración no cree ninguna de las
+> verdaderas.
 
 ---
 

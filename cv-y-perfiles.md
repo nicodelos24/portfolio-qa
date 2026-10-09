@@ -46,9 +46,8 @@ Mi forma de trabajar es probar como varias personas a la vez, rastrear el dato
 hasta su origen cuando algo parece raro, probar los bordes y no solo el camino
 que funciona, y documentar el error con su causa antes de arreglarlo.
 
-Herramientas: Git y GitHub, Katalon Recorder, Excel. Conozco el alcance de Jira
-y Playwright sin haberlos usado en proyectos. Estoy en formación en SQL e
-ISTQB Foundation.
+Herramientas: Git y GitHub, Katalon Recorder y Excel. Estoy en formación en SQL
+e ISTQB Foundation.
 
 Inglés B1 (Low Intermediate), Intermediate en conversación. Estoy trabajando en
 el conversacional.
@@ -109,6 +108,16 @@ Sectorización de salón y reposición.
 
 Enseñó a identificar faltantes y a proponer soluciones sin que nadie las pidiera.
 ```
+
+### Mozo — Restaurante Santa Elena
+
+```
+Servicio en sala: tomar el pedido, coordinar tiempos con la cocina y atender al
+cliente.
+```
+
+> Un puesto corto. Figura en el currículum porque es experiencia real del rubro,
+> no porque sea una de las que definen mi perfil.
 
 ### Cajero — Disco / Carnicería Don Pepe
 
@@ -203,6 +212,9 @@ Operario de planta — Yazaki
 Bachero y ayudante de cocina — El Otro Portón
   Eficiencia de la cocina bajo presión y en equipo. Dos años.
 
+Mozo — Restaurante Santa Elena
+  Servicio en sala y coordinación con la cocina.
+
 Reponedor y encargado de sector lácteos — Multiahorro
   Encargado del sector por iniciativa propia.
 
@@ -213,7 +225,6 @@ Telecomunicador — Pronto
 HERRAMIENTAS
 ─────────────────────────────────────────────
 Git · GitHub · Katalon Recorder · Excel
-Conozco Jira y Playwright sin usarlos en proyectos
 En formación: SQL · ISTQB Foundation
 
 ─────────────────────────────────────────────
