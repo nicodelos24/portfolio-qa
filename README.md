@@ -121,12 +121,25 @@ En formación: **SQL** e **ISTQB Foundation**.
 
 | | |
 | --- | --- |
-| **Desarrollo web** | Promedio final **86 %** |
+| **Jóvenes a Programar** (Ceibal / UTEC) | Técnico en Desarrollo Web. Promedio final **86 %** |
 | **Testing — Udemy** | De ahí salen mis nociones de QA: caso de prueba, defecto, regresión |
 | **Ciberseguridad — UTEC** | En curso |
-| **Jóvenes a Programar — Ceibal/UTEC** | Completado |
 | **Bootcamp de Python e IA — Ingelearn** | Completado |
 | **Introducción a Java — Encode** | Completado |
+
+**Lo que dice el informe del curso**, y por qué me sirve para QA:
+
+| Competencia evaluada | Nivel | Dónde me sirve |
+| --- | --- | --- |
+| HTML con semántica y accesibilidad | Competente | Entender qué está mirando el usuario y distinguir un error de maquetado de uno de lógica |
+| CSS: especificidad y prioridad | Competente | Razonar por qué algo se ve mal y no solo *qué* |
+| Diseño responsive | Competente | Probar en distintos tamaños de pantalla, no solo achicar la ventana |
+| Manejo de eventos | Competente | Entender por qué un control responde o no |
+| Buenas prácticas de código | Competente | Leer lo que escriben otros para poder probar bien |
+| JavaScript y validación de datos | En desarrollo | Sigo practicando |
+| Comunicación y trabajo en equipo | Competente | Escribir un reporte que se entienda |
+| Determinación y responsabilidad | Competente | Seguir con un caso hasta que no vuelve |
+| Relaciones interpersonales | Avanzado | — |
 
 Los cursos me dieron las nociones. **La práctica la construí probando estos dos
 proyectos**, que es lo que me faltaba.

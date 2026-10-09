@@ -122,7 +122,8 @@ es un caso de prueba, cómo se escribe un defecto, qué es una prueba de
 regresión. Las nociones las tengo; la práctica la estoy construyendo con estos
 proyectos.
 
-**Desarrollo web**, aprobado con **86 % de promedio**.
+**Técnico en Desarrollo Web — Jóvenes a Programar** (Ceibal / UTEC, 2025),
+aprobado con **86 % de promedio**.
 
 Competencias destacadas segun el informe del curso: HTML semántico con buenas
 prácticas de accesibilidad, CSS con dominio de especificidad y prioridad,

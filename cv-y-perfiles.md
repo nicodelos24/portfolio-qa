@@ -170,14 +170,15 @@ manuales y el análisis fueron míos.
 ## 5. Educación
 
 ```
-Desarrollo Web — Promedio final 86 %
+Técnico en Desarrollo Web — Jóvenes a Programar (Ceibal / UTEC), 2025
+Promedio final: 86 % · Introducción a la Programación: 98 % de completitud
+Evaluado en HTML y accesibilidad, CSS, diseño responsive, manejo de eventos y
+buenas prácticas de código.
+
 Testing — Udemy
 Ciberseguridad — UTEC (en curso)
-Jóvenes a Programar — Ceibal / UTEC
 Bootcamp de Python e Inteligencia Artificial — Ingelearn
 Introducción a Java — Encode
-Certificados: Flujo de trabajo con IA (Ceibal), bootcamp de Python, IA y
-ciberseguridad aplicada, Introducción a programación con Java
 ```
 
 ---
@@ -230,9 +231,10 @@ En formación: SQL · ISTQB Foundation
 ─────────────────────────────────────────────
 FORMACIÓN
 ─────────────────────────────────────────────
-Desarrollo Web — Promedio 86 %
-Testing — Udemy · Ciberseguridad (UTEC, en curso)
-Jóvenes a Programar (Ceibal/UTEC) · Bootcamp Python e IA · Introducción a Java
+Técnico en Desarrollo Web — Jóvenes a Programar (Ceibal / UTEC) · Promedio 86 %
+Testing — Udemy
+Ciberseguridad — UTEC (en curso)
+Bootcamp de Python e IA · Introducción a Java
 
 ─────────────────────────────────────────────
 IDIOMAS
