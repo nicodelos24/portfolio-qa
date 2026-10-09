@@ -1,3 +1,6 @@
 .DS_Store
 Thumbs.db
 *.pdf
+
+# Carpeta anidada accidental
+portfolio-qa/

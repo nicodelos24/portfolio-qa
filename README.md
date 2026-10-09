@@ -4,6 +4,9 @@ Analista de QA. Probé **dos aplicaciones propias de punta a punta**: casos de
 prueba, reportes de defecto con causa raíz, matrices de cobertura y pruebas de
 regresión.
 
+> **En una frase:** dos años bajo filosofía Cero Defecto en línea de ensamblaje,
+> más dos aplicaciones propias probadas de punta a punta.
+
 > **Transparencia.** Las pruebas y los hallazgos son míos. El desarrollo y la
 > automatización usaron asistencia de inteligencia artificial, y la redacción
 > de los documentos también. En cada repositorio está dicho qué hizo cada uno.
@@ -12,19 +15,25 @@ regresión.
 
 ## Lo que más me diferencia
 
-Antes de QA trabajé **en los dos rubros para los que hago pruebas**:
+**Dos años trabajando bajo filosofía "Cero Defecto" en una línea de ensamblaje de
+autopiezas.** Eso es trabajo de calidad, con disciplina de calidad, y es lo que
+más pesa de todo mi perfil.
 
-| Trabajo | Qué me enseñó, y por qué sirve para probar software |
+| Lo que se aplicaba ahí | Por qué importa para probar software |
 | --- | --- |
-| **Mozo en restaurante** | Cómo funciona de verdad un turno de servicio: quién pide qué, para cuándo, y qué pasa cuando falta algo |
-| **Operario de planta (Yazaki)** | Producción de alimentos: entrada de materia prima, proceso y salida |
-| **Cajero** | Manejo de dinero: totales, cambios, cuentas por cobrar |
-| **Reponedor y encargado de laptops en supermercado** | Stock, reposición y conteo. Un faltante no es solo un dato: frena la venta |
-| **Telecomunicador en call center** | Atención al usuario y soporte |
+| **Cero defecto** | Un error aparentemente menor generaba pérdidas enormes y podía poner en riesgo a quien usara el producto. La calidad como barrera, no como sugerencia |
+| **Regla de las 3 Ns**: no recibo defectos, no genero defectos, no entrego defectos | Es, literalmente, el ciclo de vida de un defecto |
+| **Tiempos cronometrados** | El retraso de una persona paraba toda la línea. Un detalle chico tiene consecuencias grandes en un proceso encadenado |
+| **Kanban** | Ver el trabajo por etapas, con trazabilidad de en qué punto está cada cosa |
+| **Trazabilidad de defectos** | Lo que hacía mal un operario acarreaba el error hacia atrás, hasta el proveedor. Se buscaba la causa de origen, no el síntoma |
 
-**Eso es conocimiento del dominio, no un título.** Un QA que nunca entró a un
-restaurante ni adjusts un cajero puede probar que la pantalla funciona, pero no
-sabe si el proceso sirve. Yo sí.
+Después, **reposición y encargado del sector de lácteos** en un supermercado:
+encargado por compromiso e iniciativa propios, aprendiendo y ayudando en
+sectores que no eran mi obligación.
+
+También **dos años como bachero y ayudante de cocina**: toda la cocina dependía
+de la eficiencia de quien está en ese puesto. Trabajo bajo presión real y en
+equipo, con el resultado dependendo de mí.
 
 ---
 
