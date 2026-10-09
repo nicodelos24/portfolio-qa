@@ -46,9 +46,6 @@ Mi forma de trabajar es probar como varias personas a la vez, rastrear el dato
 hasta su origen cuando algo parece raro, probar los bordes y no solo el camino
 que funciona, y documentar el error con su causa antes de arreglarlo.
 
-Herramientas: Git y GitHub, Katalon Recorder y Excel. Estoy en formación en SQL
-e ISTQB Foundation.
-
 Inglés B1 (Low Intermediate), Intermediate en conversación. Estoy trabajando en
 el conversacional.
 
@@ -223,12 +220,6 @@ Cajero — Disco / Don Pepe
 Telecomunicador — Pronto
 
 ─────────────────────────────────────────────
-HERRAMIENTAS
-─────────────────────────────────────────────
-Git · GitHub · Katalon Recorder · Excel
-En formación: SQL · ISTQB Foundation
-
-─────────────────────────────────────────────
 FORMACIÓN
 ─────────────────────────────────────────────
 Técnico en Desarrollo Web — Jóvenes a Programar (Ceibal / UTEC) · Promedio 86 %
@@ -242,6 +233,21 @@ IDIOMAS
 Español — nativo
 Inglés — B1 (Low Intermediate), Intermediate en conversación
 ```
+
+---
+
+## 6.bis Por qué el perfil no tiene sección de "Herramientas"
+
+Porque no hay una lista honesta que poner.
+
+Si pongo Git, en realidad uso **GitHub Desktop**, no la terminal. Si pongo Katalon
+Recorder, lo usé alguna vez, no seguido. Y Excel no lo uso. **Listar herramientas
+que no uso seguido es relleno**, y un reclutador que lo detecta deja de creerse
+todo lo demás.
+
+Por eso las herramientas aparecen **donde realmente las usé**, y no en una lista
+suelta. Si un filtro las busca, las encuentra igual: están en el contexto que
+corresponde.
 
 ---
 

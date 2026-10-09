@@ -52,6 +52,9 @@ agenda y control de permisos por rol.
 | Commits | 52 |
 | Pantallas cubiertas | 11 de 11 |
 
+Los registros están versionados con Git, así que se puede ver qué se probó y
+cuándo.
+
 **El foco fue privacidad de datos.** La mitad de los errores críticos eran del
 mismo tipo: información que se veía sin permiso. El más grave: el sistema
 ocultaba el ícono de la pantalla de finanzas a quien no debía verlo, pero **la
@@ -60,7 +63,10 @@ pantalla abría igual escribiendo la dirección**.
 Se detectó probando la aplicación **como cuatro roles distintos y comparando**,
 y se corrigió cerrando el acceso, no tapándolo.
 
-→ [Historias, casos, reportes y metodología](https://github.com/TU_USUARIO/qa-traza)
+Cada prueba quedó registrada con pasos y resultado, y cada defecto con su causa
+raíz y una prueba de regresión.
+
+→ [Historias, casos, reportes y metodología](https://github.com/nicodelos24/qa-traza)
 
 ### 2. [QA — String](https://github.com/nicodelos24/portfolio-qa-string) · código en [String](https://github.com/nicodelos24/Proyecto-guitar-IA)
 
@@ -106,16 +112,6 @@ Lo que más resultados dio, y está detallado en la metodología de cada proyect
 5. **Probar en el teléfono de verdad**, no solo achicando la ventana.
 
 ---
-
-## Herramientas
-
-| Herramienta | Para qué |
-| --- | --- |
-| **Git y GitHub** | Versionado, historial y comparación entre versiones |
-| **Katalon Recorder** | Grabación y reproducción de recorridos |
-| **Excel** | Registro de casos, defectos y resultados |
-
-En formación: **SQL** e **ISTQB Foundation**.
 
 ## Formación
 
