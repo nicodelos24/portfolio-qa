@@ -1,174 +1,56 @@
-# Portafolio de QA — Nicolás De Los Santos Leal
+# Nicolás De Los Santos Leal · QA manual junior
 
-Analista de QA. Probé **dos aplicaciones propias de punta a punta**: casos de
-prueba, reportes de defecto con causa raíz, matrices de cobertura y pruebas de
-regresión.
+**Busco mi primera oportunidad laboral en QA.** Diseño y pruebo aplicaciones propias, documento problemas y vuelvo a comprobar el comportamiento después de los cambios. Mi formación en desarrollo web me ayuda a entender las interfaces y comunicar lo que falla.
 
-> **En una frase:** dos años bajo filosofía Cero Defecto en línea de ensamblaje,
-> más dos aplicaciones propias probadas de punta a punta.
+Colonia del Sacramento, Uruguay · [Correo](mailto:nicodelos24@gmail.com) · [GitHub](https://github.com/nicodelos24)
 
-> **Transparencia.** Las pruebas y los hallazgos son míos. El desarrollo y la
-> automatización usaron asistencia de inteligencia artificial, y la redacción
-> de los documentos también. En cada repositorio está dicho qué hizo cada uno.
+[Currículum](cv-qa.md) · [CV en PDF](cv/CV-Nicolas-De-Los-Santos-QA.pdf) · [Perfil y forma de trabajo](perfil-qa.md)
 
----
+## Dos ejemplos de mi trabajo
 
-## Lo que más me diferencia
+### Traza: un menú oculto no impedía abrir Finanzas
 
-**Dos años trabajando bajo filosofía "Cero Defecto" en una línea de ensamblaje de
-autopiezas.** Eso es trabajo de calidad, con disciplina de calidad, y es lo que
-más pesa de todo mi perfil.
+En esta aplicación propia de costos para comercios de alimentación, el rol de cocina no veía la opción Finanzas en el menú, pero podía abrir la pantalla escribiendo su dirección. Comparar el comportamiento entre roles permitió detectar la diferencia entre ocultar una opción y restringir el acceso.
 
-| Lo que se aplicaba ahí | Por qué importa para probar software |
-| --- | --- |
-| **Cero defecto** | Un error aparentemente menor generaba pérdidas enormes y podía poner en riesgo a quien usara el producto. La calidad como barrera, no como sugerencia |
-| **Regla de las 3 Ns**: no recibo defectos, no genero defectos, no entrego defectos | Es, literalmente, el ciclo de vida de un defecto |
-| **Tiempos cronometrados** | El retraso de una persona paraba toda la línea. Un detalle chico tiene consecuencias grandes en un proceso encadenado |
-| **Kanban** | Ver el trabajo por etapas, con trazabilidad de en qué punto está cada cosa |
-| **Trazabilidad de defectos** | Lo que hacía mal un operario acarreaba el error hacia atrás, hasta el proveedor. Se buscaba la causa de origen, no el síntoma |
+El reporte **B-001** describe los pasos, el resultado esperado, el diagnóstico y la corrección. Mi aporte fue el uso y la prueba manual del producto; el desarrollo y el diagnóstico técnico contaron con asistencia de IA. Es una comprobación funcional de permisos del prototipo, no una auditoría de seguridad de un servicio en producción.
 
-Después, **reposición y encargado del sector de lácteos** en un supermercado:
-encargado por compromiso e iniciativa propios, aprendiendo y ayudando en
-sectores que no eran mi obligación.
+**Para revisar:** [reporte B-001](https://github.com/nicodelos24/qa-traza/blob/main/reportes-de-bug.md#b-001--los-permisos-solo-escondían-el-ícono-del-menú) · [casos de prueba](https://github.com/nicodelos24/qa-traza/blob/main/casos-de-prueba.md) · [repositorio QA](https://github.com/nicodelos24/qa-traza/tree/main) · [aplicación](https://github.com/nicodelos24/traza)
 
-También **dos años como bachero y ayudante de cocina**: toda la cocina dependía
-de la eficiencia de quien está en ese puesto. Trabajo bajo presión real y en
-equipo, con el resultado dependendo de mí.
+### String: escuchar también es probar
 
----
+String es una aplicación propia para practicar guitarra y bajo. En Android, al tocar el piano se escuchaba una voz adicional que no correspondía. El registro **EJ-08 / CP-100 / BUG-040** recoge la comprobación manual posterior a la corrección: una sola voz de piano en los modos evaluados.
 
-## Proyectos
+También documenté la comprobación de un ruido al sonar la primera nota. Son ejemplos de pruebas de uso y escucha que complementan las verificaciones automáticas del proyecto.
 
-### 1. [QA — Traza](https://github.com/TU_USUARIO/qa-traza) · código en [Traza](https://github.com/nicodelos24/traza)
+**Para revisar:** [pruebas manuales](https://github.com/nicodelos24/portfolio-qa-string/blob/main/docs/PRUEBAS-MANUALES.md) · [repositorio QA](https://github.com/nicodelos24/portfolio-qa-string) · [aplicación](https://github.com/nicodelos24/Proyecto-guitar-IA)
 
-Aplicación de control de costos y rentabilidad para comercios de alimentación:
-recetas que se costean solas, stock por libro de movimientos, compras, pedidos,
-agenda y control de permisos por rol.
+## Qué contiene la documentación
 
-| | |
-| --- | ---: |
-| Casos de prueba manuales | 93 |
-| Defectos documentados | 43 (10 críticos) |
-| Commits | 52 |
-| Pantallas cubiertas | 11 de 11 |
+Conteo revisado el 9 de octubre de 2026. Los casos documentados no equivalen a pruebas aprobadas ni a cobertura completa.
 
-Los registros están versionados con Git, así que se puede ver qué se probó y
-cuándo.
-
-**El foco fue privacidad de datos.** La mitad de los errores críticos eran del
-mismo tipo: información que se veía sin permiso. El más grave: el sistema
-ocultaba el ícono de la pantalla de finanzas a quien no debía verlo, pero **la
-pantalla abría igual escribiendo la dirección**.
-
-Se detectó probando la aplicación **como cuatro roles distintos y comparando**,
-y se corrigió cerrando el acceso, no tapándolo.
-
-Cada prueba quedó registrada con pasos y resultado, y cada defecto con su causa
-raíz y una prueba de regresión.
-
-→ [Historias, casos, reportes y metodología](https://github.com/nicodelos24/qa-traza)
-
-### 2. [QA — String](https://github.com/nicodelos24/portfolio-qa-string) · código en [String](https://github.com/nicodelos24/Proyecto-guitar-IA)
-
-Aplicación para practicar guitarra: pedidos, reproducción de acordes y acordes
-guardados.
-
-| | |
-| --- | ---: |
-| Casos de prueba | 177 (114 automatizados, 63 manuales) |
-| Reportes de error | 42 |
-| Historias de usuario | 53 |
-| Matriz de trazabilidad | Sí |
-
-Incluye el detalle fino de los registros y la convención de distinguir qué
-ejecuté yo y qué ejecutó el asistente.
-
----
-
-## Qué sé hacer
-
-- **Casos de prueba** con pasos, resultado esperado y resultado obtenido
-- **Matriz de cobertura**, incluida la parte de lo que **no** está probado
-- **Pruebas funcionales, de regresión y de extremo a extremo**
-- **Historias de usuario y criterios de aceptación**, reconstruidos del historial
-  de commits
-- Pruebas de **aplicación web y aplicación móvil**
-- Reportes de defecto con **severidad, pasos para reproducir, causa raíz y
-  corrección**
-- **Pruebas de regresión** que fallan antes del arreglo y pasan después
-
-### Cómo pruebo
-
-Lo que más resultados dio, y está detallado en la metodología de cada proyecto:
-
-1. **Probar como varias personas a la vez.** Un solo rol esconde la mitad de los
-   errores.
-2. **Rastrear el dato hasta su origen** cuando un número parece raro. A veces
-   el cálculo está bien y lo que miente es el rótulo.
-3. **Probar las esquinas**, no el camino feliz: cobrar de más, no tener datos
-   guardados, volver atrás, cambiar de usuario.
-4. **Probar el día completo** en vez de pantalla por pantalla. Los errores
-   aparecen en las costuras.
-5. **Probar en el teléfono de verdad**, no solo achicando la ventana.
-
----
-
-## Formación
-
-| | |
-| --- | --- |
-| **Jóvenes a Programar** (Ceibal / UTEC) | Técnico en Desarrollo Web. Promedio final **86 %** |
-| **Testing — Udemy** | De ahí salen mis nociones de QA: caso de prueba, defecto, regresión |
-| **Ciberseguridad — UTEC** | En curso |
-| **Bootcamp de Python e IA — Ingelearn** | Completado |
-| **Introducción a Java — Encode** | Completado |
-
-**Lo que dice el informe del curso**, y por qué me sirve para QA:
-
-| Competencia evaluada | Nivel | Dónde me sirve |
+| Proyecto | Registros disponibles | Alcance |
 | --- | --- | --- |
-| HTML con semántica y accesibilidad | Competente | Entender qué está mirando el usuario y distinguir un error de maquetado de uno de lógica |
-| CSS: especificidad y prioridad | Competente | Razonar por qué algo se ve mal y no solo *qué* |
-| Diseño responsive | Competente | Probar en distintos tamaños de pantalla, no solo achicar la ventana |
-| Manejo de eventos | Competente | Entender por qué un control responde o no |
-| Buenas prácticas de código | Competente | Leer lo que escriben otros para poder probar bien |
-| JavaScript y validación de datos | En desarrollo | Sigo practicando |
-| Comunicación y trabajo en equipo | Competente | Escribir un reporte que se entienda |
-| Determinación y responsabilidad | Competente | Seguir con un caso hasta que no vuelve |
-| Relaciones interpersonales | Avanzado | — |
+| Traza | 59 casos identificados y 10 reportes desarrollados | La documentación declara ejecución manual. Los resúmenes del repositorio de origen anuncian 93 casos y 43 defectos, pero esos totales no coinciden con los registros individuales disponibles. |
+| String | 177 casos: 114 de modalidad automatizada y 63 manuales; 42 reportes | La línea base registra 4 casos manuales aprobados individualmente, además de exploración continua declarada. Hay casos pendientes, bloqueados y retirados. Los reportes incluyen duplicados, reversiones y una aclaración de requisitos. |
 
-Los cursos me dieron las nociones. **La práctica la construí probando estos dos
-proyectos**, que es lo que me faltaba.
+[Fuentes, discrepancias y límites de esta revisión](revision-documental.md).
 
----
+## Mi trabajo y el uso de IA
 
-## Inglés
+Me encargo del diseño del producto, las prioridades y las pruebas manuales. Uso IA para avanzar en el desarrollo, apoyar el diagnóstico y organizar y redactar documentación. Reviso los textos para que correspondan con lo observado.
 
-Nivel medido en **Voxy**: **Low Intermediate** en la evaluación general, e
-**Intermediate** en conversación.
+Las pruebas que presento como manuales las realizo personalmente. Las automatizaciones asistidas del proyecto se identifican por separado: su presencia no representa experiencia mía como desarrollador de pruebas automáticas. Tampoco convierto una sesión de exploración sin registro individual en una cantidad de casos aprobados.
 
-Se me da para leer documentación técnica y escribir. El conversacional me cuesta
-y estoy trabajando en eso. Lo digo de entrada porque varios avisos de QA lo
-piden como requisito.
+## Formación y experiencia previa
 
----
+**Desarrollo Web — Jóvenes a Programar, Ceibal, 2025.** Curso aprobado; promedio final del informe: **86 %**. Formación en HTML, CSS, JavaScript, diseño adaptable e introducción a APIs web.
 
-## Sobre aprender
+Mi experiencia laboral incluye ensamblaje de arneses eléctricos en Yazaki, cocina, caja y reposición. En Yazaki mi tarea era encintar cableado en una línea de producción bajo filosofía Cero Defecto. Esa experiencia me aportó práctica siguiendo procedimientos y coordinando tareas; mi puesto era de producción.
 
-No tengo años de experiencia en QA, y no quiero parecer que los tengo.
-
-Tengo **muchas ganas de aprender** y la costumbre de buscar lo que me falta. Lo
-que hice en estos proyectos fue ponerlo en práctica: donde no sabía, busqué,
-aprendí y lo anoté. Si un equipo necesita que aprenda SQL, Jira o
-automatización, es algo que ya demostré que sé hacer: lo hice con herramientas
-que no conocía cuando empecé.
-
----
+Actualmente curso **Ciberseguridad, Ciencia de Datos y Machine Learning en Python en UTEC**, con finalización prevista en mayo de 2027. Estoy matriculado en **Analista Programador en CTC** para comenzar en 2027.
 
 ## Contacto
 
-Nicolás De Los Santos Leal — Colonia del Sacramento, Uruguay
-[nicodelos24@gmail.com](mailto:nicodelos24@gmail.com) · [GitHub](https://github.com/nicodelos24)
+Me interesa incorporarme a un equipo como QA manual trainee o junior, aprender sus procesos y aportar pruebas cuidadosas y reportes claros.
 
-> Para los proyectos de QA uso el mismo nombre y correo. Si preferís que el
-> portafolio tenga una dirección propia, se cambia en un minuto.
+**Nicolás De Los Santos Leal** · [nicodelos24@gmail.com](mailto:nicodelos24@gmail.com)

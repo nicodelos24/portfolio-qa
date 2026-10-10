@@ -1,79 +1,39 @@
-# Perfil de QA
+# Perfil de QA manual
 
-> Para ver qué me falta y en qué orden aprenderlo:
-> [`plan-de-formación.md`](plan-de-formación.md).
+Busco mi primera experiencia laboral en QA. Mi práctica viene de dos proyectos propios: Traza, para la gestión de costos de comercios de alimentación, y String, para practicar guitarra y bajo.
 
----
+## Cómo trabajo
 
-## Sobre este portafolio
+- Defino los recorridos de uso y reviso qué debería ocurrir en cada uno.
+- Comparo lo que ve y puede hacer cada rol, incluidos los accesos por dirección directa.
+- Pruebo datos vacíos, cambios de usuario, navegación, persistencia y situaciones fuera del recorrido habitual.
+- Describo el problema con pasos, resultado esperado y resultado observado.
+- Vuelvo a probar los escenarios afectados después de los cambios y registro lo pendiente.
 
-**Mi trabajo y el uso de IA**
+La profundidad de las pruebas depende de cada función y versión. No afirmo que una aplicación esté completamente probada ni que esté libre de errores.
 
-Las pruebas y los hallazgos **son míos**. Probé la aplicacion, la usé como
-distintas personas, en celular y en escritorio, y los errores que aparecen en
-[`reportes-de-bug.md`](reportes-de-bug.md) existen y se reproducen.
+## Ejemplos que puedo explicar
 
-La **redacción y la organización** de estos documentos se hicieron con asistencia
-de inteligencia artificial. Lo digo explícitamente para no dejar dudas.
+**Traza — acceso a Finanzas.** El menú ocultaba una opción, pero la pantalla seguía accesible. El reporte B-001 permite seguir el problema desde el recorrido del usuario hasta la corrección documentada. [Ver reporte](https://github.com/nicodelos24/qa-traza/blob/main/reportes-de-bug.md).
 
-Lo que la IA hizo fue ordenar y estructurar lo que ya estaba encontrado. **El
-trabajo de prueba —qué mirar, cómo compararlo, cuando algo es un problema- es
-mio**, y está explicado en [`metodologia.md`](metodologia.md).
+**String — sonido doble en Android.** El registro EJ-08 documenta la comprobación manual del sonido después de la corrección. Las condiciones y los límites figuran en [pruebas manuales](https://github.com/nicodelos24/portfolio-qa-string/blob/main/docs/PRUEBAS-MANUALES.md).
 
-**Relación con el otro portafolio**
+## Responsabilidad y asistencia de IA
 
-Este es mi **segundo** proyecto de pruebas. El primero es
-[Portfolio QA - String](https://github.com/nicodelos24/portfolio-qa-string), una
-aplicacion para practicar guitarra, con 177 casos, 42 reportes de error y
-matrices de trazabilidad. Ahí está el detalle fino de los registros y la
-convencion de distinguir que ejecuté yo y que ejecutó el asistente.
+Las decisiones de producto y las pruebas manuales son mi trabajo. Uso IA en desarrollo, diagnóstico técnico, organización y redacción de documentos. Por eso distingo un hallazgo de uso propio de una comprobación automática o un análisis de código asistido.
 
----
+Los repositorios se gestionan con GitHub Desktop. La existencia de pruebas automáticas y archivos Excel generados no significa que domine automatización o Excel. Mi uso de Katalon Recorder ha sido puntual; no lo presento como especialización.
 
-## Qué probé
+## Formación e inglés
 
-**Traza**, una aplicación propia de control de costos y rentabilidad para
-restaurantes y comercios de alimentación. 11 pantallas, funciona en celular y
-escritorio, calcula costos, márgenes, merma y food cost.
+Aprobé Desarrollo Web en Jóvenes a Programar, Ceibal, en 2025, con promedio final de 86 %. El informe evalúa HTML, CSS, diseño adaptable y manejo de eventos como competente; JavaScript en el cliente y validación de datos figuran en desarrollo. Incluye una evaluación de introducción a APIs web. Esto respalda una base técnica, no experiencia profesional en backend.
 
-| | |
-| --- | ---: |
-| Casos de prueba ejecutados a mano | 93 |
-| Errores encontrados y documentados | 43 |
-| De ellos, severidad critica | 10 |
-| Commits del proyecto | 52 |
+Actualmente curso Ciberseguridad, Ciencia de Datos y Machine Learning en Python en UTEC, con finalización prevista en mayo de 2027. Estoy matriculado en Analista Programador en CTC para comenzar en 2027.
 
----
+En Voxy, evaluación de 2025: nivel general **Low Intermediate**, expresión oral **Intermediate** y lectura **High Beginner**. Son los resultados de aquella evaluación, no una medición actual ni una certificación B1. Continúo practicando inglés.
 
-## Qué sé hacer
+## Experiencia laboral previa
 
-### Diseño y ejecución de pruebas
+En Yazaki trabajé como operario de ensamblaje, encintando cableado para arneses eléctricos. También trabajé en cocina, atención telefónica, caja y reposición. Puedo relacionar tareas reales de estos rubros con los recorridos de una aplicación, sin presentarlas como años de experiencia laboral en QA.
 
-- **Casos de prueba** con pasos, resultado esperado y resultado obtenido
-- **Matriz de cobertura**, incluida la parte de lo que **no** esta probado
-- **Pruebas funcionales, de regresión y de extremo a extremo**
-- **Historias de usuario y criterios de aceptacion**
-- Pruebas de **aplicacion web y aplicación móvil**
-
-### Gestión de defectos
-
-- Reportes con **severidad, pasos para reproducir, ca raíz y corrección**
-- **Pruebas de regresión** que fallan antes del arreglo y pasan despues
-- Seguimiento de un error hasta que no vuelve
-
-### El área donde más aporto: **permisos y privacidad**
-
-Casi la mitad de los errores críticos de este proyecto eran del mismo tipo:
-**datos que veían sin tener permiso**.
-
-Eso exige una forma de probar que no es la de siempre:
-
-1. Abrir la misma pantalla **como cada rol** y compararlas
-2. Escribir la dirección de la pantalla **a mano**, sin pasar por el menú
-3. Intentar salir de cada pantalla en cada rol, buscando quedarme encerrado
-
-Ninguna de las tres se hace probando una sola vez, con un solo usuario.
-
----
-
-
+[Currículum](cv-qa.md) · [Plan de formación](plan-de-formacion.md) · [Revisión de evidencia](revision-documental.md)

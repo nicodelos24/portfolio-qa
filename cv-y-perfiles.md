@@ -1,346 +1,135 @@
-# Currículum y perfiles
+# Textos para perfiles y postulaciones
 
-> Textos listos para copiar. Para el detalle de qué sé y qué me falta:
-> [`perfil-qa.md`](perfil-qa.md).
+Estos textos presentan práctica en proyectos propios y búsqueda del primer empleo en QA. [CV editable](cv-qa.md) · [PDF](cv/CV-Nicolas-De-Los-Santos-QA.pdf).
 
----
+## Titular
 
-## 1. Titular para LinkedIn
-
-```
-Analista de QA · Cero defecto en línea de ensamblaje · Dos aplicaciones
-propias probadas de punta a punta
+```text
+QA manual junior | Pruebas funcionales y documentación de defectos | Formación en Desarrollo Web
 ```
 
-Es largo para LinkedIn. Dos alternativas más cortas:
+## LinkedIn: Acerca de
 
-| Opción | Titular |
+```text
+Busco mi primera oportunidad laboral en QA manual. Me interesa entender cómo se usa un producto, encontrar lo que falla y explicar el problema para que pueda corregirse.
+
+Estoy desarrollando dos aplicaciones propias con asistencia de IA: Traza, para controlar costos de comercios de alimentación, y String, para practicar guitarra y bajo. Me encargo del diseño, las prioridades y las pruebas manuales.
+
+En Traza detecté que ocultar Finanzas en el menú no impedía abrir la pantalla desde su dirección con un rol sin permiso. En String comprobé manualmente correcciones de audio, como el sonido doble del piano en Android. Mi portafolio permite consultar los reportes y el alcance de los registros.
+
+Uso IA para apoyar el desarrollo, el diagnóstico y la documentación. Las pruebas que presento como manuales las realizo personalmente. Mi foco actual es QA manual; las automatizaciones asistidas de los proyectos se identifican por separado.
+
+Aprobé Desarrollo Web en Jóvenes a Programar, Ceibal, en 2025, con un promedio final de 86 %. Actualmente curso Ciberseguridad, Ciencia de Datos y Machine Learning en Python en UTEC, con finalización prevista en mayo de 2027. Estoy matriculado en CTC para comenzar Analista Programador en 2027.
+
+Mi experiencia laboral previa incluye ensamblaje de arneses eléctricos, cocina, caja y reposición.
+
+Vivo en Colonia del Sacramento, Uruguay. Tengo disposición para aprender las herramientas y los procesos del equipo.
+
+Portafolio: https://github.com/nicodelos24/portfolio-qa
+Contacto: nicodelos24@gmail.com
+```
+
+## Proyectos
+
+Presentar como proyectos personales. Si un formulario solo ofrece experiencia, indicar expresamente «Proyecto personal»; no atribuir una empresa cliente ni años de empleo en QA.
+
+**Traza — Diseño de producto y QA manual · Proyecto personal, 2026**
+
+```text
+Pruebas funcionales de una aplicación propia de costos para comercios de alimentación. Revisión de costos, pedidos, inventario, navegación y permisos entre roles. Hallazgo destacado: acceso directo a Finanzas con un rol que no veía la opción en el menú. Documentación con 59 casos identificados y 10 reportes desarrollados. Desarrollo, diagnóstico y redacción asistidos por IA; pruebas manuales propias.
+```
+
+**String — Diseño de producto y QA manual · Proyecto personal, 2026**
+
+```text
+Exploración manual de una aplicación propia para practicar guitarra y bajo. Comprobación de correcciones de audio, incluido sonido doble en Android y ruido al tocar la primera nota. Seguimiento de historias, casos y defectos. El repositorio distingue las pruebas manuales, la automatización asistida por IA y los casos pendientes.
+```
+
+## Experiencia laboral
+
+Fechas confirmadas por el autor: Yazaki, abril de 2021 a enero de 2024; El Otro Portón, setiembre de 2024 a octubre de 2026. Para los demás empleos, completar las fechas reales antes de guardar el formulario. Actualmente estoy buscando empleo: El Otro Portón no debe figurar como trabajo actual.
+
+| Empresa | Puesto y descripción |
 | --- | --- |
-| **Corta** | Analista de QA · Pruebas funcionales y de regresión · Permisos y datos |
-| **Con el diferencial** | QA con garantía de calidad industrial · Dos proyectos propios probados de punta a punta |
+| Yazaki · abr. 2021–ene. 2024 | Operario de línea de ensamblaje. Encintado de cableado para arneses eléctricos y seguimiento de procedimientos de producción. |
+| El Otro Portón · set. 2024–oct. 2026 | Bachero y ayudante de cocina. Apoyo al funcionamiento de la cocina y coordinación con el equipo. |
+| Multiahorro | Reponedor y encargado del sector de lácteos. Reposición y tareas en salón y depósito. |
+| Supermercado USA | Verdulería y reposición en salón. |
+| Disco | Cajero. Atención en caja y cobro de compras. |
+| Carnicería Don Pepe | Aprendiz de carnicero y cajero. |
+| Restaurante Santa Elena | Mozo. Atención en sala y coordinación con cocina. |
+| Pronto | Telecomunicador. Atención telefónica. |
 
----
+Disco y Don Pepe son empleos separados. No añadir soporte técnico, auditoría, inspección industrial o tareas que no estén confirmadas.
 
-## 2. LinkedIn — "Acerca de"
+## Educación e idiomas
 
-```
-Analista de QA. Vengo de dos años trabajando bajo filosofía "Cero Defecto" en
-una línea de ensamblaje de autopiezas, con la Regla de las 3 Ns y Kanban como
-forma de trabajo: no recibo defectos, no genero defectos, no entrego defectos.
-Ahí aprendí que un error pequeño en un proceso encadenado se paga en todos los
-eslabones que vienen después.
-
-Hoy aplico esa misma disciplina probando software. Tengo dos aplicaciones
-propias probadas de punta a punta:
-
-Traza, una aplicación de control de costos para comercios de alimentación:
-93 casos de prueba manuales, 43 defectos documentados y matriz de cobertura. La
-mitad de los errores críticos eran de un mismo tipo: datos que se veían sin
-tener permiso. El más grave era que el sistema ocultaba el ícono de la pantalla
-de finanzas, pero la pantalla abría igual escribiendo la dirección.
-
-String, una aplicación para practicar guitarra: 177 casos de prueba, 42
-reportes de error y trazabilidad completa entre historias, casos y defectos.
-
-Mi forma de trabajar es probar como varias personas a la vez, rastrear el dato
-hasta su origen cuando algo parece raro, probar los bordes y no solo el camino
-que funciona, y documentar el error con su causa antes de arreglarlo.
-
-Inglés B1 (Low Intermediate), Intermediate en conversación. Estoy trabajando en
-el conversacional.
-
-Antes también trabajé como bachero y ayudante de cocina, donde toda la cocina
-dependía de la eficiencia de ese puesto, y como encargado de un sector en un
-supermercado. Eso me da el conocimiento del rubro para el que hago pruebas: sé
-cómo funciona un turno de servicio y sé qué es un faltante de stock cuando frena
-una venta.
+```text
+Desarrollo Web — Jóvenes a Programar, Ceibal
+2025 · Curso aprobado · Promedio final: 86 %
+HTML, CSS, JavaScript, diseño adaptable e introducción a APIs web.
 ```
 
----
+El certificado aportado está emitido por Ceibal y acredita el curso «Desarrollo Web». El informe usa «Nivel 1 - Técnico Desarrollo Web» como encabezado de evaluación; no convertirlo en un título terciario. La participación de UTEC mencionada por el autor puede ampliarse cuando se disponga de una constancia que detalle esa vinculación.
 
-## 3. LinkedIn — "Experiencia"
+Para idiomas: «Inglés: Voxy 2025, nivel general Low Intermediate; expresión oral Intermediate». Si el formulario exige A1–C2, no deducir B1 de este informe: usar una evaluación con esa escala. El informe de lectura indica High Beginner.
 
-Las dos de QA van como **proyectos**. La de Yazaki es la que **abre** la lista.
+Formación actual confirmada por el autor:
 
-### Operario de planta — Yazaki (2023 — 2025)
+- **Ciberseguridad, Ciencia de Datos y Machine Learning en Python — UTEC:** en curso, finalización prevista en mayo de 2027.
+- **Analista Programador — CTC:** matriculado para comenzar en 2027. No presentarlo como una carrera ya iniciada o terminada.
 
-```
-Ensamblaje de autopiezas en línea de producción.
+## Resumen breve para Computrabajo, Get on Board y formularios
 
-- Trabajé bajo filosofía "Cero Defecto": un error aparentemente menor generaba
-  pérdidas enormes y podía poner en riesgo la seguridad de quien usara el
-  producto.
-- Regla de las 3 Ns: no recibo defectos, no genero defectos, no entrego
-  defectos.
-- Tiempos cronometrados por segundo: el retraso de una persona frenaba toda la
-  línea, y los defectos se acarreaban hacia atrás hasta el origen.
-- Seguimiento del trabajo con Kanban.
-
-Aprendí que la calidad no es el último paso, es una barrera en cada etapa, y que
-buscar la causa de origen es lo que evita repetir el mismo error.
+```text
+Busco mi primera oportunidad en QA manual. Formación en Desarrollo Web y práctica en dos proyectos propios: pruebas funcionales, permisos por rol, documentación de defectos y comprobación de correcciones. Uso IA para apoyar el desarrollo y la documentación; las pruebas manuales las realizo personalmente. Colonia del Sacramento, Uruguay.
 ```
 
-### Bachero y ayudante de cocina — El Otro Portón (2023 — 2025)
+Usar el titular anterior, este resumen, el PDF y el enlace del portafolio donde cada formulario los solicite. Revisar el contenido importado del CV antes de enviar.
 
-```
-Cocina de un comercio de alimentación.
+Get on Board permite crear un perfil y postular a ofertas; completar ubicación y experiencia de forma consistente. [Ayuda oficial](https://www.getonbrd.com/help/how-do-i-get-started-on-get-on-board).
 
-- Toda la cocina dependía de la eficiencia de este puesto.
-- Coordinación con el equipo de cocina y con el resto del local.
+En Breezy el formulario depende de la vacante y de la empresa; no hay un conjunto universal de campos que copiar. [Documentación oficial de los formularios](https://help.breezy.hr/en/articles/5354233-customize-your-application-form).
 
-Trabajo bajo presión real, con el resultado dependiendo de lo que haga yo.
-```
+## Destacados del perfil
 
-> **Nota:** si este trabajo terminó de otra manera, sacalo o ajustalo. El
-> portafolio de QA no lo menciona, y acá queda solo si ayuda.
+**Portafolio QA manual — Traza y String**
 
-### Reponedor y encargado de sector lácteos — Multiahorro
-
-```
-Sectorización de salón y reposición.
-
-- Encargado del sector de lácteos por compromiso e iniciativa propios,
-  aprendiendo y ayudando también en depósito, verdulería y bebidas, que no
-  eran mi obligación.
-
-Enseñó a identificar faltantes y a proponer soluciones sin que nadie las pidiera.
+```text
+Dos proyectos personales con ejemplos de permisos y audio, reportes de defectos y registros de pruebas. Incluye el alcance del trabajo manual y la asistencia de IA.
+https://github.com/nicodelos24/portfolio-qa
 ```
 
-### Mozo — Restaurante Santa Elena
+**String — Pruebas manuales de audio**
 
-```
-Servicio en sala: tomar el pedido, coordinar tiempos con la cocina y atender al
-cliente.
-```
-
-> Un puesto corto. Figura en el currículum porque es experiencia real del rubro,
-> no porque sea una de las que definen mi perfil.
-
-### Cajero — Disco / Carnicería Don Pepe
-
-```
-Manejo de dinero: totales, cambios y cuentas por cobrar.
-Conocimiento directo de cómo un error de cálculo se traduce en plata real que
-falta.
+```text
+Comprobaciones manuales del sonido doble en Android y del ruido al tocar la primera nota, con condiciones y resultados documentados.
+https://github.com/nicodelos24/portfolio-qa-string/blob/main/docs/PRUEBAS-MANUALES.md
 ```
 
-### Telecomunicador — Pronto
+## Mensaje de postulación
 
-```
-Atención al usuario y soporte por teléfono.
-```
+```text
+Hola, equipo de selección:
 
----
+Me interesa la vacante de QA manual junior. Aprobé Desarrollo Web en Jóvenes a Programar y estoy buscando mi primera experiencia laboral en QA.
 
-## 4. Proyectos de QA
+En dos proyectos propios realizo pruebas manuales y documento problemas. Mi portafolio incluye ejemplos de permisos por rol y comprobación de correcciones de audio. Uso IA como apoyo en desarrollo y documentación, y distingo ese trabajo de mis pruebas manuales.
 
-### QA — Traza · Aplicación de control de costos para comercios de alimentación
+Adjunto mi CV y comparto el portafolio: https://github.com/nicodelos24/portfolio-qa
 
-```
-- 93 casos de prueba manuales en celular y escritorio.
-- 43 defectos documentados con severidad, pasos para reproducir, causa raíz y
-  prueba de regresión. 10 fueron críticos.
-- Detecté que el control de permisos solo ocultaba el ícono de menú y no
-  bloqueaba la pantalla, accesible escribiendo la dirección.
-- Verifiqué la aplicación con cuatro roles de usuario en paralelo y detecté que
-  el rol de recepción veía las cuentas por pagar y los precios de compra.
-- Escribí la matriz de cobertura, incluyendo los aspectos no cubiertos.
+Me gustaría conversar sobre cómo puedo aportar al equipo y seguir aprendiendo.
 
-El desarrollo y la automatización usaron asistencia de IA. Las pruebas
-manuales y el análisis fueron míos.
+Gracias por su tiempo.
+Nicolás De Los Santos Leal
 ```
 
-### QA — String · Aplicación para practicar guitarra
+Antes de enviarlo, sustituir el nombre genérico de la vacante por el real y añadir una frase sobre una responsabilidad concreta del aviso que pueda respaldar. No afirmar experiencia en una herramienta solo porque figure en los proyectos.
 
-```
-- 177 casos de prueba: 114 automatizados y 63 manuales.
-- 42 reportes de error con seguimiento, reversiones y aclaración de requisitos.
-- Matriz de trazabilidad entre historias de usuario, casos y defectos.
-- Pruebas manuales en dispositivo Android.
+## Cómo explicar mi interés en QA
 
-El desarrollo y la automatización usaron asistencia de IA. Las pruebas
-manuales y el análisis fueron míos.
+```text
+Al crear mis aplicaciones descubrí que me interesa especialmente probar cómo funcionan, encontrar problemas y comprobar si se resolvieron. Quiero convertir esa práctica en mi primer trabajo en QA y aprender a hacerlo dentro de un equipo.
 ```
 
----
-
-## 5. Educación
-
-```
-Técnico en Desarrollo Web — Jóvenes a Programar (Ceibal / UTEC), 2025
-Promedio final: 86 % · Introducción a la Programación: 98 % de completitud
-Evaluado en HTML y accesibilidad, CSS, diseño responsive, manejo de eventos y
-buenas prácticas de código.
-
-Testing — Udemy
-Ciberseguridad — UTEC (en curso)
-Bootcamp de Python e Inteligencia Artificial — Ingelearn
-Introducción a Java — Encode
-```
-
----
-
-## 6. CV de una página
-
-```
-NICOLÁS DE LOS SANTOS LEAL
-Analista de QA · Colonia del Sacramento, Uruguay
-nicodelos24@gmail.com
-
-─────────────────────────────────────────────
-EXPERIENCIA EN CALIDAD
-─────────────────────────────────────────────
-Proyecto Traza — Control de costos para comercios de alimentación
-  · 93 casos de prueba manuales en celular y escritorio
-  · 43 defectos documentados con causa raíz y prueba de regresión (10 críticos)
-  · Verificación de permisos comparando cuatro roles de usuario en paralelo
-  · Matriz de cobertura con los aspectos no cubiertos
-
-Proyecto String — Aplicación para practicar guitarra
-  · 177 casos de prueba (114 automatizados, 63 manuales)
-  · 42 reportes de error y trazabilidad completa historia → caso → defecto
-
-─────────────────────────────────────────────
-EXPERIENCIA LABORAL
-─────────────────────────────────────────────
-Operario de planta — Yazaki
-  Bajo filosofía Cero Defecto, Regla de las 3 Ns, Kanban y tiempos
-  cronometrados. Dos años.
-
-Bachero y ayudante de cocina — El Otro Portón
-  Eficiencia de la cocina bajo presión y en equipo. Dos años.
-
-Mozo — Restaurante Santa Elena
-  Servicio en sala y coordinación con la cocina.
-
-Reponedor y encargado de sector lácteos — Multiahorro
-  Encargado del sector por iniciativa propia.
-
-Cajero — Disco / Don Pepe
-Telecomunicador — Pronto
-
-─────────────────────────────────────────────
-FORMACIÓN
-─────────────────────────────────────────────
-Técnico en Desarrollo Web — Jóvenes a Programar (Ceibal / UTEC) · Promedio 86 %
-Testing — Udemy
-Ciberseguridad — UTEC (en curso)
-Bootcamp de Python e IA · Introducción a Java
-
-─────────────────────────────────────────────
-IDIOMAS
-─────────────────────────────────────────────
-Español — nativo
-Inglés — B1 (Low Intermediate), Intermediate en conversación
-```
-
----
-
-## 6.bis Por qué el perfil no tiene sección de "Herramientas"
-
-Porque no hay una lista honesta que poner.
-
-Si pongo Git, en realidad uso **GitHub Desktop**, no la terminal. Si pongo Katalon
-Recorder, lo usé alguna vez, no seguido. Y Excel no lo uso. **Listar herramientas
-que no uso seguido es relleno**, y un reclutador que lo detecta deja de creerse
-todo lo demás.
-
-Por eso las herramientas aparecen **donde realmente las usé**, y no en una lista
-suelta. Si un filtro las busca, las encuentra igual: están en el contexto que
-corresponde.
-
----
-
-## 7. Cómo llenar cada plataforma
-
-### Get on Board
-
-Es la que más peso tiene para roles IT en Latinoamérica. Pide un perfil completo
-y un CV.
-
-| Campo | Qué poner |
-| --- | --- |
-| Título | `Analista de QA` |
-| Resumen | El texto de "Acerca de" |
-| CV | El de una página de arriba |
-| Portafolio | Los dos links de GitHub |
-
-**Buscá primero:** `QA`, `Analista de testing`, `QA junior`, `Analista
-funcional`. Y filtrá por remoto.
-
-### Computrabajo
-
-Es el más grande de Uruguay. El perfil es más simple.
-
-| Campo | Qué poner |
-| --- | --- |
-| Título profesional | `Analista de pruebas (QA)` |
-| Aptitudes | `Testing funcional · Permisos y datos · Pruebas de regresión` |
-| CV | El de una página |
-
-### Breezy
-
-Uruguay lo usa bastante para usado por empresas empresas. Formulario corto.
-
-| Campo | Qué poner |
-| --- | --- |
-| Título | `Analista de QA` |
-| Descripción corta | `QA con dos proyectos propios probados de punta a punta y dos años de garantía de calidad industrial` |
-
-### LinkedIn
-
-El texto largo de arriba, más:
-- **Foto**: una cara, no un logo
-- **Portada**: una imagen simple con tu nombre y "Analista de QA"
-- **Destacado**: los dos repositorios de GitHub
-
----
-
-## 8. El orden en que conviene hacer las cosas
-
-1. **LinkedIn primero.** Es donde te van a encontrar los reclutadores.
-2. **Get on Board**, que es donde se publican los roles IT.
-3. **Computrabajo**, por volumen.
-4. **Breezy**, después.
-
-Y una cosa que vale más que cualquier plataforma: **la certificación ISTQB.**
-Es lo que contesta "¿por qué vos?" cuando alguien ve que no tenés años de
-experiencia.
-
----
-
-## 9. La frase
-
-Esta es la respuesta corta y verdadera a *"¿por qué quiere hacer QA?"*. Está
-en el CV, en LinkedIn y en el portafolio, porque **es lo que te diferencia de
-cualquier candidato que solo haya hecho un curso**:
-
-> **"Vengo de dos años trabajando bajo Cero Defecto, donde un error mío paraba la
-> línea entera y se pagaba con plata de todos. Aprendí que un defecto se busca
-> hasta el origen, nunca se tapa. Ahora hago lo mismo con software, y tengo dos
-> proyectos donde lo apliqué."**
-
-**En el CV de una página**, arriba del todo, en lugar del titular:
-
-```
-NICOLÁS DE LOS SANTOS LEAL
-Analista de QA
-
-"Vengo de dos años trabajando bajo Cero Defecto, donde un error mío paraba la
-línea entera y se pagaba con plata de todos. Aprendí que un defecto se busca
-hasta el origen, nunca se tapa. Hoy hago lo mismo con software."
-```
-
-**Por qué funciona:** no es una frase de currículum. Es la razón por la que
-trabajaste dos años donde la mayoría de los que dicen "tengo experiencia en QA"
-no trabajaron ninguno, y es concreta: la línea, el error, el origen, el
-software.
-
-
-> *"Vengo de dos años en una línea de ensamblaje trabajando bajo cero defecto,
-> donde un error mío paraba la línea entera y se pagaba con plata de todos.
-> Aprendí que un defecto se busca hasta el origen, nunca se tapa. Ahora hago lo
-> mismo con software, y tengo dos proyectos donde lo apliqué."*
-
-No hay que memorizarla: es lo que te pasó: es lo que te
-pasó.
+Las herramientas se mencionan junto a su uso real. Gestionar repositorios con GitHub Desktop y haber probado Katalon Recorder puntualmente no equivale a dominar Git por terminal o automatización. No hace falta una lista de tecnologías para aparentar más experiencia.
