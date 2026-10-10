@@ -15,7 +15,7 @@ QA manual junior | Pruebas funcionales y documentación de defectos | Formación
 ```text
 Estoy buscando mi primera oportunidad laboral en QA manual. Me interesa entender cómo se usa un producto, encontrar problemas y explicarlos con claridad para facilitar su corrección.
 
-Estoy desarrollando dos aplicaciones propias con asistencia de IA: Traza, para gestionar los costos de comercios de alimentación, y String, para practicar guitarra y bajo. Estoy trabajando en el diseño, definiendo las prioridades y realizando las pruebas manuales.
+Estoy desarrollando dos aplicaciones propias con asistencia de IA: Traza, para gestionar los costos de comercios de alimentación, y String, para practicar guitarra y bajo. Estoy trabajando en el diseño, definiendo las prioridades y realizando las pruebas manuales. También estoy desarrollando El Otro Portón, un sitio web para un restaurante local, donde estoy definiendo requisitos y preparando casos de prueba para sus recorridos y su diseño adaptable.
 
 En Traza detecté que ocultar Finanzas en el menú no impedía abrir la pantalla desde su dirección con un rol sin permiso. En String comprobé manualmente correcciones de audio, como el sonido doble del piano en Android. En mi portafolio comparto los reportes y los registros de estas comprobaciones.
 
@@ -43,6 +43,12 @@ Estoy diseñando y probando una aplicación propia para gestionar los costos de 
 Estoy diseñando y probando una aplicación propia para practicar guitarra y bajo. Estoy explorando su funcionamiento y comprobando correcciones de audio. Ya comprobé las relacionadas con el sonido doble del piano en Android y con un ruido al tocar la primera nota. Estoy registrando mis pruebas manuales y dando seguimiento a historias, casos y defectos. Para el desarrollo y la documentación estoy utilizando IA como apoyo, y estoy diferenciando mis comprobaciones de las verificaciones automáticas asistidas.
 ```
 
+### El Otro Portón · Requisitos y diseño de pruebas · 2026
+
+```text
+Estoy desarrollando con asistencia de IA un sitio web para un restaurante local. Estoy definiendo historias de usuario y criterios de aceptación para una landing visual, adaptable a distintas pantallas, con carta, consultas por WhatsApp y ubicación en un mapa. Estoy documentando la evolución del diseño y preparando casos de prueba para comprobar los recorridos; estoy separando ese trabajo de las ejecuciones y sus resultados.
+```
+
 ## Mi experiencia laboral
 
 | Empresa y puesto | Mi trabajo |
@@ -67,15 +73,15 @@ Mi idioma nativo es el español. En Voxy, en 2025, obtuve **Low Intermediate** c
 ## Mi presentación breve
 
 ```text
-Estoy buscando mi primera oportunidad en QA manual. Tengo formación en Desarrollo Web y estoy trabajando en dos proyectos propios, donde estoy realizando pruebas funcionales, comparando permisos por rol, documentando defectos y comprobando correcciones. Estoy utilizando IA como apoyo para el desarrollo y la documentación, y realizando personalmente las pruebas manuales. Vivo en Colonia del Sacramento, Uruguay.
+Estoy buscando mi primera oportunidad en QA manual. Tengo formación en Desarrollo Web y estoy trabajando en dos aplicaciones propias y en un sitio web para un restaurante. Estoy combinando la definición de requisitos y el diseño de pruebas con la práctica manual, la documentación de defectos y la comprobación de correcciones en mis aplicaciones. Estoy utilizando IA como apoyo para el desarrollo y la documentación, y realizando personalmente las pruebas manuales. Vivo en Colonia del Sacramento, Uruguay.
 ```
 
 ## Mis trabajos destacados
 
-**Portafolio QA manual · Traza y String**
+**Portafolio QA · Traza, String y El Otro Portón**
 
 ```text
-Estoy desarrollando mi práctica en QA manual con dos proyectos propios. En mi portafolio comparto ejemplos de permisos y audio, reportes de defectos y registros de pruebas, con una descripción de mi trabajo y del uso de IA como apoyo.
+Estoy desarrollando mi práctica en QA con Traza, String y El Otro Portón. En mi portafolio comparto ejemplos de permisos y audio, reportes y registros de pruebas de mis aplicaciones, además de historias de usuario y diseño de pruebas para un sitio web. Estoy describiendo mi trabajo y el uso de IA como apoyo.
 https://github.com/nicodelos24/portfolio-qa
 ```
 
@@ -86,6 +92,13 @@ Comprobé correcciones del sonido doble del piano en Android y de un ruido al to
 https://github.com/nicodelos24/portfolio-qa-string/blob/main/docs/PRUEBAS-MANUALES.md
 ```
 
+**El Otro Portón · Requisitos y evolución del diseño**
+
+```text
+Estoy definiendo historias de usuario y criterios de aceptación para un sitio gastronómico, y preparando casos para revisar la carta, WhatsApp, la ubicación y la adaptación a pantallas. Estoy utilizando el historial para explicar las decisiones visuales.
+https://github.com/nicodelos24/portfolio-qa-porton
+```
+
 ## Mi mensaje de postulación
 
 ```text
@@ -93,7 +106,7 @@ Hola, equipo de selección:
 
 Me interesa la vacante de QA manual junior. Aprobé Desarrollo Web en Jóvenes a Programar y estoy buscando mi primera experiencia laboral en QA.
 
-Estoy realizando pruebas manuales y documentando problemas en dos proyectos propios. Mi portafolio incluye ejemplos de permisos por rol y comprobación de correcciones de audio. Estoy utilizando IA como apoyo para el desarrollo y la documentación, y diferenciando ese trabajo de mis pruebas manuales.
+Estoy realizando pruebas manuales y documentando problemas en dos proyectos propios. Mi portafolio incluye ejemplos de permisos por rol y comprobación de correcciones de audio. También estoy definiendo requisitos y diseñando casos de prueba para el sitio web de un restaurante local. Estoy utilizando IA como apoyo para el desarrollo y la documentación, y diferenciando ese trabajo de mis pruebas manuales.
 
 Adjunto mi CV y comparto mi portafolio: https://github.com/nicodelos24/portfolio-qa
 

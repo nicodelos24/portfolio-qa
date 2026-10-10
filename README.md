@@ -1,6 +1,6 @@
 # Nicolás De Los Santos Leal · QA manual junior
 
-**Estoy buscando mi primera oportunidad laboral en QA.** En mis proyectos estoy diseñando y probando aplicaciones, documentando los problemas que encuentro y comprobando su comportamiento después de las correcciones. Para comprender las interfaces y comunicar los hallazgos con claridad, estoy aplicando mi formación en desarrollo web.
+**Estoy buscando mi primera oportunidad laboral en QA.** Estoy trabajando en aplicaciones propias y en un sitio web para un restaurante local. En estos proyectos estoy definiendo requisitos y combinando el diseño de pruebas con la práctica manual. Para comprender las interfaces y comunicar los hallazgos con claridad, estoy aplicando mi formación en desarrollo web.
 
 Vivo en Colonia del Sacramento, Uruguay.
 
@@ -28,9 +28,17 @@ Estoy complementando las verificaciones automáticas del proyecto con pruebas de
 
 [Mis pruebas manuales](https://github.com/nicodelos24/portfolio-qa-string/blob/main/docs/PRUEBAS-MANUALES.md) · [Documentación QA](https://github.com/nicodelos24/portfolio-qa-string) · [Aplicación](https://github.com/nicodelos24/Proyecto-guitar-IA)
 
+### El Otro Portón · Requisitos y evolución del diseño
+
+Estoy desarrollando con asistencia de IA un sitio web público para un restaurante local. Estoy definiendo una landing visual y adaptable a distintas pantallas, con carta, consultas de reservas y pedidos por WhatsApp y un mapa con los datos oficiales del local.
+
+Estoy organizando las historias de usuario, los criterios de aceptación y los casos de prueba a partir del alcance, el código y el historial. También estoy documentando la evolución de la composición visual, distinguiendo las nuevas decisiones de diseño de los defectos que puedan demostrarse. Los casos están diseñados; su ejecución y sus resultados se registran por separado.
+
+[Mis historias de usuario](https://github.com/nicodelos24/portfolio-qa-porton/blob/main/historias-de-usuario.md) · [Documentación QA](https://github.com/nicodelos24/portfolio-qa-porton) · [Código del sitio](https://github.com/nicodelos24/nicodelos24.github.io-proyecto-porton)
+
 ## Cómo estoy trabajando
 
-En ambos proyectos estoy:
+En Traza y String estoy:
 
 - Definiendo los recorridos de uso y el comportamiento esperado.
 - Comparando los resultados entre roles y probando situaciones fuera del recorrido habitual.

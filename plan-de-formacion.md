@@ -34,4 +34,6 @@ Estoy practicando inglés. En la evaluación de Voxy de 2025 obtuve los siguient
 
 En Traza y String estoy combinando mi base en desarrollo web con la práctica de pruebas manuales. Estoy definiendo recorridos, comparando resultados, documentando problemas y comprobando correcciones. Para el desarrollo y la documentación de ambos proyectos, estoy utilizando IA como apoyo.
 
+En El Otro Portón estoy aplicando esa base a la definición de requisitos y al diseño de pruebas para un sitio web. Estoy relacionando historias, criterios y casos con las decisiones visuales y los recorridos previstos de carta, WhatsApp y ubicación.
+
 [Mi perfil de QA](perfil-qa.md) · [Mi currículum](cv-qa.md) · [Mi portafolio](README.md)

@@ -1,12 +1,12 @@
 # Mi perfil de QA manual
 
-Estoy buscando mi primera experiencia laboral en QA y desarrollando mi práctica en dos proyectos propios: Traza, para gestionar los costos de comercios de alimentación, y String, para practicar guitarra y bajo.
+Estoy buscando mi primera experiencia laboral en QA. Estoy desarrollando mi práctica con Traza, una aplicación de costos para comercios de alimentación; String, una aplicación para practicar guitarra y bajo; y El Otro Portón, un sitio web para un restaurante local.
 
 Me interesa entender cómo se usa un producto, encontrar problemas y comunicar lo que observo de una manera que facilite su corrección.
 
 ## Cómo estoy trabajando
 
-En mis proyectos estoy:
+En Traza y String estoy:
 
 - Definiendo los recorridos de uso y revisando qué debería ocurrir en cada uno.
 - Comparando lo que veo y puedo hacer con cada rol, incluidos los accesos por dirección directa.
@@ -21,6 +21,8 @@ Estoy registrando las condiciones y el alcance de mis comprobaciones para que ca
 **Traza — Acceso a Finanzas.** Detecté que podía abrir la pantalla desde su dirección con el rol de cocina, aunque la opción estuviera oculta en el menú. Documenté el problema en B-001, con asistencia de IA para el diagnóstico y la redacción. [Mi reporte](https://github.com/nicodelos24/qa-traza/blob/main/reportes-de-bug.md).
 
 **String — Sonido doble en Android.** Comprobé manualmente el sonido del piano después de la corrección y registré el resultado en EJ-08. También documenté una comprobación del ruido al tocar la primera nota. [Mis pruebas manuales de audio](https://github.com/nicodelos24/portfolio-qa-string/blob/main/docs/PRUEBAS-MANUALES.md).
+
+**El Otro Portón — Requisitos y diseño de pruebas.** Estoy definiendo historias de usuario y criterios para una landing adaptable a distintas pantallas, con carta, contacto por WhatsApp y ubicación. Estoy usando el historial para explicar las reformas visuales y preparando los casos para comprobar los recorridos. [Mi documentación QA](https://github.com/nicodelos24/portfolio-qa-porton).
 
 ## Herramientas y asistencia de IA
 
