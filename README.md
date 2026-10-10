@@ -10,13 +10,13 @@ Vivo en Colonia del Sacramento, Uruguay.
 
 ### Traza · Pruebas funcionales y permisos por rol
 
-Estoy desarrollando Traza con asistencia de IA para gestionar los costos de comercios de alimentación. Estoy definiendo el diseño y las prioridades del producto, y realizando pruebas manuales de costos, pedidos, inventario, navegación y permisos.
+Estoy desarrollando Traza con asistencia de IA para ofrecerla como servicio de gestión de costos para comercios de alimentación. Mantengo el código fuente privado y comparto en este portafolio una selección de mi trabajo de QA manual. Estoy definiendo el diseño y las prioridades del producto, y realizando pruebas manuales de costos, pedidos, inventario, navegación y permisos.
 
 Uno de los problemas que detecté fue el acceso a Finanzas desde un rol de cocina: la opción no aparecía en el menú, pero podía abrir la pantalla escribiendo su dirección. Al comparar ambos recorridos, identifiqué la diferencia entre ocultar una opción y restringir el acceso.
 
 Documenté el hallazgo en el reporte **B-001**, con asistencia de IA para el diagnóstico técnico y la redacción. Mi trabajo en este ejemplo se centró en el uso del prototipo y la comprobación funcional de sus permisos.
 
-[Mi reporte B-001](https://github.com/nicodelos24/qa-traza/blob/main/reportes-de-bug.md#b-001--los-permisos-solo-escondían-el-ícono-del-menú) · [Mis casos de prueba](https://github.com/nicodelos24/qa-traza/blob/main/casos-de-prueba.md) · [Documentación QA](https://github.com/nicodelos24/qa-traza/tree/main) · [Aplicación](https://github.com/nicodelos24/traza)
+[Mi reporte B-001](https://github.com/nicodelos24/qa-traza/blob/main/reportes-de-bug.md#b-001--los-permisos-solo-escondían-el-ícono-del-menú) · [Mis casos de prueba](https://github.com/nicodelos24/qa-traza/blob/main/casos-de-prueba.md) · [Documentación QA](https://github.com/nicodelos24/qa-traza/tree/main)
 
 ### String · Pruebas de uso y audio
 
