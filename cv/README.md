@@ -1,6 +1,6 @@
 # Mi currículum
 
-Comparto mi experiencia, formación y proyectos personales en QA manual. Busco mi primera oportunidad laboral en el área.
+En mi currículum presento mi experiencia, mi formación y los proyectos personales en los que estoy trabajando en QA manual. Estoy buscando mi primera oportunidad laboral en el área.
 
 - [Mi CV en PDF](CV-Nicolas-De-Los-Santos-QA.pdf).
 - [Mi CV en HTML](CV-Nicolas-De-Los-Santos-QA.html).

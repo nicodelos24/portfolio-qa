@@ -1,6 +1,6 @@
 # Nicolás De Los Santos Leal · QA manual junior
 
-**Busco mi primera oportunidad laboral en QA.** Diseño y pruebo aplicaciones propias, documento los problemas que encuentro y compruebo su comportamiento después de las correcciones. Mi formación en desarrollo web me ayuda a comprender las interfaces y comunicar los hallazgos con claridad.
+**Estoy buscando mi primera oportunidad laboral en QA.** En mis proyectos estoy diseñando y probando aplicaciones, documentando los problemas que encuentro y comprobando su comportamiento después de las correcciones. Para comprender las interfaces y comunicar los hallazgos con claridad, estoy aplicando mi formación en desarrollo web.
 
 Vivo en Colonia del Sacramento, Uruguay.
 
@@ -10,7 +10,7 @@ Vivo en Colonia del Sacramento, Uruguay.
 
 ### Traza · Pruebas funcionales y permisos por rol
 
-Desarrollo Traza con asistencia de IA para gestionar los costos de comercios de alimentación. Me encargo del diseño del producto, las prioridades y las pruebas manuales de costos, pedidos, inventario, navegación y permisos.
+Estoy desarrollando Traza con asistencia de IA para gestionar los costos de comercios de alimentación. Estoy definiendo el diseño y las prioridades del producto, y realizando pruebas manuales de costos, pedidos, inventario, navegación y permisos.
 
 Uno de los problemas que detecté fue el acceso a Finanzas desde un rol de cocina: la opción no aparecía en el menú, pero podía abrir la pantalla escribiendo su dirección. Al comparar ambos recorridos, identifiqué la diferencia entre ocultar una opción y restringir el acceso.
 
@@ -20,28 +20,30 @@ Documenté el hallazgo en el reporte **B-001**, con asistencia de IA para el dia
 
 ### String · Pruebas de uso y audio
 
-Desarrollo String con asistencia de IA para practicar guitarra y bajo. Me encargo del diseño, las prioridades y la exploración manual del producto, con especial atención a la interacción y al sonido.
+Estoy desarrollando String con asistencia de IA para practicar guitarra y bajo. Estoy trabajando en el diseño y las prioridades del producto, y explorando su funcionamiento de forma manual, con especial atención a la interacción y al sonido.
 
 En Android comprobé la corrección de un problema del piano que producía una voz adicional. Registré el resultado en **EJ-08 / CP-100 / BUG-040**: escuché una sola voz de piano en los modos evaluados. También documenté la comprobación de un ruido al sonar la primera nota.
 
-Con estas pruebas de uso y escucha complemento las verificaciones automáticas del proyecto. En la documentación detallo las condiciones y los resultados de cada comprobación registrada.
+Estoy complementando las verificaciones automáticas del proyecto con pruebas de uso y escucha. Al documentarlas, estoy detallando las condiciones y los resultados de cada comprobación.
 
 [Mis pruebas manuales](https://github.com/nicodelos24/portfolio-qa-string/blob/main/docs/PRUEBAS-MANUALES.md) · [Documentación QA](https://github.com/nicodelos24/portfolio-qa-string) · [Aplicación](https://github.com/nicodelos24/Proyecto-guitar-IA)
 
-## Mi forma de trabajar
+## Cómo estoy trabajando
 
-- Defino los recorridos de uso y el comportamiento esperado.
-- Comparo los resultados entre roles y pruebo situaciones fuera del recorrido habitual.
-- Documento los problemas para facilitar su reproducción y seguimiento.
-- Vuelvo a probar las funciones afectadas después de los cambios.
+En ambos proyectos estoy:
 
-Realizo personalmente las pruebas manuales. Uso IA como apoyo para el desarrollo, el diagnóstico técnico y la organización y redacción de la documentación. En los registros distingo mis comprobaciones manuales de las verificaciones automáticas asistidas y diferencio los casos diseñados de los resultados de ejecución.
+- Definiendo los recorridos de uso y el comportamiento esperado.
+- Comparando los resultados entre roles y probando situaciones fuera del recorrido habitual.
+- Documentando los problemas para facilitar su reproducción y seguimiento.
+- Volviendo a probar las funciones afectadas después de los cambios.
+
+Estoy realizando personalmente las pruebas manuales y utilizando IA como apoyo para el desarrollo, el diagnóstico técnico y la organización y redacción de la documentación. En los registros estoy diferenciando mis comprobaciones manuales de las verificaciones automáticas asistidas, así como los casos diseñados de los resultados de ejecución.
 
 ## Mi formación y experiencia
 
 Aprobé **Desarrollo Web en Jóvenes a Programar, Ceibal, en 2025**, con un promedio final de **86 %**. Allí adquirí una base en HTML, CSS, JavaScript, diseño adaptable e introducción a APIs web.
 
-Actualmente curso **Ciberseguridad, Ciencia de Datos y Machine Learning en Python en UTEC**, con finalización prevista en mayo de 2027. Estoy matriculado en **Analista Programador en CTC** para comenzar en 2027.
+Actualmente estoy cursando **Ciberseguridad, Ciencia de Datos y Machine Learning en Python en UTEC**, con finalización prevista en mayo de 2027. Estoy matriculado en **Analista Programador en CTC** para comenzar en 2027.
 
 Trabajé en ensamblaje de arneses eléctricos en Yazaki, además de cocina, atención telefónica, caja y reposición. En esos puestos adquirí experiencia siguiendo procedimientos y coordinando tareas con otras personas.
 

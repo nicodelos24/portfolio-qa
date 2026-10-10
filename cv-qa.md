@@ -8,7 +8,7 @@ Portafolio: https://github.com/nicodelos24/portfolio-qa
 
 ## Perfil
 
-Busco mi primera oportunidad laboral en QA. Tengo formación en desarrollo web y práctica manual en dos aplicaciones propias. Me encargo del diseño del producto, sus prioridades y las pruebas de uso. Me interesa detectar problemas, explicarlos con claridad y comprobar las correcciones. Uso IA como apoyo en desarrollo, diagnóstico y documentación; las pruebas manuales las realizo personalmente.
+Estoy buscando mi primera oportunidad laboral en QA. Tengo formación en desarrollo web y estoy desarrollando dos aplicaciones propias con asistencia de IA. Estoy trabajando en su diseño, definiendo prioridades y realizando personalmente las pruebas manuales. Me interesa detectar problemas, explicarlos con claridad y comprobar las correcciones. Estoy utilizando IA como apoyo en desarrollo, diagnóstico y documentación.
 
 ## Proyectos personales de QA · 2026
 
@@ -16,17 +16,17 @@ Busco mi primera oportunidad laboral en QA. Tengo formación en desarrollo web y
 
 https://github.com/nicodelos24/qa-traza/tree/main
 
-- Realizo pruebas funcionales de costos, pedidos, inventario, navegación y permisos por rol.
+- Estoy realizando pruebas funcionales de costos, pedidos, inventario, navegación y permisos por rol.
 - Detecté que podía abrir Finanzas desde su dirección aunque el menú ocultara la opción al rol de cocina.
-- Comparto 59 casos identificados y 10 reportes; los organizo y redacto con asistencia de IA.
+- Estoy organizando y redactando la documentación con asistencia de IA; reúne 59 casos identificados y 10 reportes.
 
 **String — Práctica de guitarra y bajo**
 
 https://github.com/nicodelos24/portfolio-qa-string
 
-- Exploro el producto y compruebo correcciones de audio, incluido el sonido doble en Android.
-- Registro mis pruebas manuales y doy seguimiento a historias, casos y defectos.
-- Centro mi trabajo en QA manual y lo distingo de las verificaciones automáticas asistidas por IA.
+- Estoy probando el audio del producto. Ya comprobé la corrección del sonido doble del piano en Android.
+- Estoy registrando mis pruebas manuales y dando seguimiento a historias, casos y defectos.
+- Estoy centrando mi trabajo en QA manual y diferenciándolo de las verificaciones automáticas asistidas por IA.
 
 ## Experiencia laboral previa
 
@@ -42,7 +42,7 @@ https://github.com/nicodelos24/portfolio-qa-string
 
 **Desarrollo Web — Jóvenes a Programar, Ceibal · 2025.** Aprobé el curso con un promedio final de 86 %. Me formé en HTML, CSS, JavaScript, diseño adaptable e introducción a APIs web.
 
-**Ciberseguridad, Ciencia de Datos y Machine Learning en Python — UTEC.** Actualmente curso esta formación; finalización prevista: mayo de 2027.
+**Ciberseguridad, Ciencia de Datos y Machine Learning en Python — UTEC.** Actualmente estoy cursando esta formación; finalización prevista: mayo de 2027.
 
 **Analista Programador — CTC.** Estoy matriculado para comenzar en 2027.
 
@@ -50,4 +50,4 @@ https://github.com/nicodelos24/portfolio-qa-string
 
 ## Idiomas
 
-Mi idioma nativo es el español. En Voxy 2025 obtuve Low Intermediate en inglés general e Intermediate en expresión oral. Continúo practicando.
+Mi idioma nativo es el español. En Voxy 2025 obtuve Low Intermediate en inglés general e Intermediate en expresión oral. Estoy practicando inglés.
