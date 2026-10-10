@@ -1,65 +1,54 @@
 # Nicolás De Los Santos Leal · QA manual junior
 
-**Busco mi primera oportunidad laboral en QA.** Diseño y pruebo aplicaciones propias, documento problemas y vuelvo a comprobar el comportamiento después de los cambios. Mi formación en desarrollo web me ayuda a entender las interfaces y comunicar lo que falla.
+**Busco mi primera oportunidad laboral en QA.** Diseño y pruebo aplicaciones propias, documento los problemas que encuentro y compruebo su comportamiento después de las correcciones. Mi formación en desarrollo web me ayuda a comprender las interfaces y comunicar los hallazgos con claridad.
 
-Colonia del Sacramento, Uruguay · [Correo](mailto:nicodelos24@gmail.com) · [GitHub](https://github.com/nicodelos24)
+Vivo en Colonia del Sacramento, Uruguay.
 
-[Currículum](cv-qa.md) · [CV definitivo en PDF](cv/CV-Nicolas-De-Los-Santos-QA.pdf) · [Perfil y forma de trabajo](perfil-qa.md)
+[Mi CV en PDF](cv/CV-Nicolas-De-Los-Santos-QA.pdf) · [Mi perfil](perfil-qa.md) · [Mi formación](plan-de-formacion.md) · [GitHub](https://github.com/nicodelos24) · [Correo](mailto:nicodelos24@gmail.com)
 
-## Dos ejemplos de mi trabajo
+## Mis proyectos
 
-### Traza: un menú oculto no impedía abrir Finanzas
+### Traza · Pruebas funcionales y permisos por rol
 
-En esta aplicación propia de costos para comercios de alimentación, el rol de cocina no veía la opción Finanzas en el menú, pero podía abrir la pantalla escribiendo su dirección. Comparar el comportamiento entre roles permitió detectar la diferencia entre ocultar una opción y restringir el acceso.
+Desarrollo Traza con asistencia de IA para gestionar los costos de comercios de alimentación. Me encargo del diseño del producto, las prioridades y las pruebas manuales de costos, pedidos, inventario, navegación y permisos.
 
-El reporte **B-001** describe los pasos, el resultado esperado, el diagnóstico y la corrección. Mi aporte fue el uso y la prueba manual del producto; el desarrollo y el diagnóstico técnico contaron con asistencia de IA. Es una comprobación funcional de permisos del prototipo, no una auditoría de seguridad de un servicio en producción.
+Uno de los problemas que detecté fue el acceso a Finanzas desde un rol de cocina: la opción no aparecía en el menú, pero podía abrir la pantalla escribiendo su dirección. Al comparar ambos recorridos, identifiqué la diferencia entre ocultar una opción y restringir el acceso.
 
-**Para revisar:** [reporte B-001](https://github.com/nicodelos24/qa-traza/blob/main/reportes-de-bug.md#b-001--los-permisos-solo-escondían-el-ícono-del-menú) · [casos de prueba](https://github.com/nicodelos24/qa-traza/blob/main/casos-de-prueba.md) · [repositorio QA](https://github.com/nicodelos24/qa-traza/tree/main) · [aplicación](https://github.com/nicodelos24/traza)
+Documenté el hallazgo en el reporte **B-001**, con asistencia de IA para el diagnóstico técnico y la redacción. Mi trabajo en este ejemplo se centró en el uso del prototipo y la comprobación funcional de sus permisos.
 
-### String: escuchar también es probar
+[Mi reporte B-001](https://github.com/nicodelos24/qa-traza/blob/main/reportes-de-bug.md#b-001--los-permisos-solo-escondían-el-ícono-del-menú) · [Mis casos de prueba](https://github.com/nicodelos24/qa-traza/blob/main/casos-de-prueba.md) · [Documentación QA](https://github.com/nicodelos24/qa-traza/tree/main) · [Aplicación](https://github.com/nicodelos24/traza)
 
-String es una aplicación propia para practicar guitarra y bajo. En Android, al tocar el piano se escuchaba una voz adicional que no correspondía. El registro **EJ-08 / CP-100 / BUG-040** recoge la comprobación manual posterior a la corrección: una sola voz de piano en los modos evaluados.
+### String · Pruebas de uso y audio
 
-También documenté la comprobación de un ruido al sonar la primera nota. Son ejemplos de pruebas de uso y escucha que complementan las verificaciones automáticas del proyecto.
+Desarrollo String con asistencia de IA para practicar guitarra y bajo. Me encargo del diseño, las prioridades y la exploración manual del producto, con especial atención a la interacción y al sonido.
 
-**Para revisar:** [pruebas manuales](https://github.com/nicodelos24/portfolio-qa-string/blob/main/docs/PRUEBAS-MANUALES.md) · [repositorio QA](https://github.com/nicodelos24/portfolio-qa-string) · [aplicación](https://github.com/nicodelos24/Proyecto-guitar-IA)
+En Android comprobé la corrección de un problema del piano que producía una voz adicional. Registré el resultado en **EJ-08 / CP-100 / BUG-040**: escuché una sola voz de piano en los modos evaluados. También documenté la comprobación de un ruido al sonar la primera nota.
 
-## Qué contiene la documentación
+Con estas pruebas de uso y escucha complemento las verificaciones automáticas del proyecto. En la documentación detallo las condiciones y los resultados de cada comprobación registrada.
 
-Conteo revisado el 9 de octubre de 2026. Los casos documentados no equivalen a pruebas aprobadas ni a cobertura completa.
+[Mis pruebas manuales](https://github.com/nicodelos24/portfolio-qa-string/blob/main/docs/PRUEBAS-MANUALES.md) · [Documentación QA](https://github.com/nicodelos24/portfolio-qa-string) · [Aplicación](https://github.com/nicodelos24/Proyecto-guitar-IA)
 
-| Proyecto | Registros disponibles | Alcance |
-| --- | --- | --- |
-| Traza | 59 casos identificados y 10 reportes desarrollados | La documentación declara ejecución manual. Los resúmenes del repositorio de origen anuncian 93 casos y 43 defectos, pero esos totales no coinciden con los registros individuales disponibles. |
-| String | 177 casos: 114 de modalidad automatizada y 63 manuales; 42 reportes | La línea base registra 4 casos manuales aprobados individualmente, además de exploración continua declarada. Hay casos pendientes, bloqueados y retirados. Los reportes incluyen duplicados, reversiones y una aclaración de requisitos. |
+## Mi forma de trabajar
 
-[Fuentes, discrepancias y límites de esta revisión](revision-documental.md).
+- Defino los recorridos de uso y el comportamiento esperado.
+- Comparo los resultados entre roles y pruebo situaciones fuera del recorrido habitual.
+- Documento los problemas para facilitar su reproducción y seguimiento.
+- Vuelvo a probar las funciones afectadas después de los cambios.
 
-## Mi trabajo y el uso de IA
+Realizo personalmente las pruebas manuales. Uso IA como apoyo para el desarrollo, el diagnóstico técnico y la organización y redacción de la documentación. En los registros distingo mis comprobaciones manuales de las verificaciones automáticas asistidas y diferencio los casos diseñados de los resultados de ejecución.
 
-Me encargo del diseño del producto, las prioridades y las pruebas manuales. Uso IA para avanzar en el desarrollo, apoyar el diagnóstico y organizar y redactar documentación. Reviso los textos para que correspondan con lo observado.
+## Mi formación y experiencia
 
-Las pruebas que presento como manuales las realizo personalmente. Las automatizaciones asistidas del proyecto se identifican por separado: su presencia no representa experiencia mía como desarrollador de pruebas automáticas. Tampoco convierto una sesión de exploración sin registro individual en una cantidad de casos aprobados.
-
-## Formación y experiencia previa
-
-**Desarrollo Web — Jóvenes a Programar, Ceibal, 2025.** Curso aprobado; promedio final del informe: **86 %**. Formación en HTML, CSS, JavaScript, diseño adaptable e introducción a APIs web.
-
-Mi experiencia laboral incluye ensamblaje de arneses eléctricos en Yazaki, cocina, caja y reposición. En Yazaki mi tarea era encintar cableado en una línea de producción bajo filosofía Cero Defecto. Esa experiencia me aportó práctica siguiendo procedimientos y coordinando tareas; mi puesto era de producción.
+Aprobé **Desarrollo Web en Jóvenes a Programar, Ceibal, en 2025**, con un promedio final de **86 %**. Allí adquirí una base en HTML, CSS, JavaScript, diseño adaptable e introducción a APIs web.
 
 Actualmente curso **Ciberseguridad, Ciencia de Datos y Machine Learning en Python en UTEC**, con finalización prevista en mayo de 2027. Estoy matriculado en **Analista Programador en CTC** para comenzar en 2027.
 
-## Contacto
+Trabajé en ensamblaje de arneses eléctricos en Yazaki, además de cocina, atención telefónica, caja y reposición. En esos puestos adquirí experiencia siguiendo procedimientos y coordinando tareas con otras personas.
+
+## Mi objetivo profesional
 
 Me interesa incorporarme a un equipo como QA manual trainee o junior, aprender sus procesos y aportar pruebas cuidadosas y reportes claros.
 
-**Nicolás De Los Santos Leal** · [nicodelos24@gmail.com](mailto:nicodelos24@gmail.com)
+[Mi currículum](cv-qa.md) · [Mis archivos de CV](cv/README.md) · [Mi presentación para perfiles y postulaciones](cv-y-perfiles.md)
 
-## Documentos para postular
-
-- [Currículum definitivo y archivos de edición](cv/README.md).
-- [Textos para LinkedIn y otras plataformas](cv-y-perfiles.md).
-- [Plan de formación y datos por completar](plan-de-formacion.md).
-- [Revisión documental y alcance de la evidencia](revision-documental.md).
-
-La versión pública contiene el material de postulación. Los adjuntos personales y respaldos documentales de trabajo se conservan localmente en `privado/`, excluido de Git. Para comprobar los enlaces internos y los archivos del CV: `python3 herramientas/verificar-portfolio.py` (requiere Python 3 y las utilidades de Poppler).
+**Contacto:** [nicodelos24@gmail.com](mailto:nicodelos24@gmail.com)

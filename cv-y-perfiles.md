@@ -1,122 +1,101 @@
-# Textos para perfiles y postulaciones
+# Mi presentación profesional
 
-Estos textos presentan práctica en proyectos propios y búsqueda del primer empleo en QA. [CV editable](cv-qa.md) · [PDF](cv/CV-Nicolas-De-Los-Santos-QA.pdf).
+Reúno aquí mi presentación para perfiles profesionales y postulaciones a puestos de QA manual trainee o junior.
 
-## Titular
+[Mi currículum](cv-qa.md) · [Mi CV en PDF](cv/CV-Nicolas-De-Los-Santos-QA.pdf)
+
+## Mi titular profesional
 
 ```text
 QA manual junior | Pruebas funcionales y documentación de defectos | Formación en Desarrollo Web
 ```
 
-## LinkedIn: Acerca de
+## Sobre mí
 
 ```text
-Busco mi primera oportunidad laboral en QA manual. Me interesa entender cómo se usa un producto, encontrar lo que falla y explicar el problema para que pueda corregirse.
+Busco mi primera oportunidad laboral en QA manual. Me interesa entender cómo se usa un producto, encontrar problemas y explicarlos con claridad para facilitar su corrección.
 
-Estoy desarrollando dos aplicaciones propias con asistencia de IA: Traza, para controlar costos de comercios de alimentación, y String, para practicar guitarra y bajo. Me encargo del diseño, las prioridades y las pruebas manuales.
+Desarrollo dos aplicaciones propias con asistencia de IA: Traza, para gestionar los costos de comercios de alimentación, y String, para practicar guitarra y bajo. Me encargo del diseño, las prioridades y las pruebas manuales.
 
-En Traza detecté que ocultar Finanzas en el menú no impedía abrir la pantalla desde su dirección con un rol sin permiso. En String comprobé manualmente correcciones de audio, como el sonido doble del piano en Android. Mi portafolio permite consultar los reportes y el alcance de los registros.
+En Traza detecté que ocultar Finanzas en el menú no impedía abrir la pantalla desde su dirección con un rol sin permiso. En String comprobé manualmente correcciones de audio, como el sonido doble del piano en Android. En mi portafolio comparto los reportes y los registros de estas comprobaciones.
 
-Uso IA para apoyar el desarrollo, el diagnóstico y la documentación. Las pruebas que presento como manuales las realizo personalmente. Mi foco actual es QA manual; las automatizaciones asistidas de los proyectos se identifican por separado.
+Uso IA como apoyo para el desarrollo, el diagnóstico y la documentación. Realizo personalmente las pruebas manuales y las distingo de las verificaciones automáticas asistidas de mis proyectos.
 
 Aprobé Desarrollo Web en Jóvenes a Programar, Ceibal, en 2025, con un promedio final de 86 %. Actualmente curso Ciberseguridad, Ciencia de Datos y Machine Learning en Python en UTEC, con finalización prevista en mayo de 2027. Estoy matriculado en CTC para comenzar Analista Programador en 2027.
 
-Mi experiencia laboral previa incluye ensamblaje de arneses eléctricos, cocina, caja y reposición.
-
-Vivo en Colonia del Sacramento, Uruguay. Tengo disposición para aprender las herramientas y los procesos del equipo.
+Trabajé en ensamblaje de arneses eléctricos, cocina, atención telefónica, caja y reposición. Vivo en Colonia del Sacramento, Uruguay, y me interesa aprender las herramientas y los procesos del equipo al que me incorpore.
 
 Portafolio: https://github.com/nicodelos24/portfolio-qa
 Contacto: nicodelos24@gmail.com
 ```
 
-## Proyectos
+## Mis proyectos personales
 
-Presentar como proyectos personales. Si un formulario solo ofrece experiencia, indicar expresamente «Proyecto personal»; no atribuir una empresa cliente ni años de empleo en QA.
-
-**Traza — Diseño de producto y QA manual · Proyecto personal, 2026**
+### Traza · Diseño de producto y QA manual · 2026
 
 ```text
-Pruebas funcionales de una aplicación propia de costos para comercios de alimentación. Revisión de costos, pedidos, inventario, navegación y permisos entre roles. Hallazgo destacado: acceso directo a Finanzas con un rol que no veía la opción en el menú. Documentación con 59 casos identificados y 10 reportes desarrollados. Desarrollo, diagnóstico y redacción asistidos por IA; pruebas manuales propias.
+Diseño y pruebo una aplicación propia para gestionar los costos de comercios de alimentación. Realizo pruebas funcionales de costos, pedidos, inventario, navegación y permisos entre roles. Detecté que podía acceder a Finanzas desde su dirección con un rol que no veía la opción en el menú. Organizo los casos de prueba y los reportes con asistencia de IA, que también utilizo para el desarrollo y el diagnóstico técnico.
 ```
 
-**String — Diseño de producto y QA manual · Proyecto personal, 2026**
+### String · Diseño de producto y QA manual · 2026
 
 ```text
-Exploración manual de una aplicación propia para practicar guitarra y bajo. Comprobación de correcciones de audio, incluido sonido doble en Android y ruido al tocar la primera nota. Seguimiento de historias, casos y defectos. El repositorio distingue las pruebas manuales, la automatización asistida por IA y los casos pendientes.
+Diseño y pruebo una aplicación propia para practicar guitarra y bajo. Exploro su funcionamiento y compruebo correcciones de audio, como el sonido doble del piano en Android y un ruido al tocar la primera nota. Registro mis pruebas manuales y doy seguimiento a historias, casos y defectos. Uso IA como apoyo para el desarrollo y la documentación, y distingo mis comprobaciones de las verificaciones automáticas asistidas.
 ```
 
-## Experiencia laboral
+## Mi experiencia laboral
 
-Fechas confirmadas por el autor: Yazaki, abril de 2021 a enero de 2024; El Otro Portón, setiembre de 2024 a octubre de 2026. Para los demás empleos, completar las fechas reales antes de guardar el formulario. Actualmente estoy buscando empleo: El Otro Portón no debe figurar como trabajo actual.
-
-| Empresa | Puesto y descripción |
+| Empresa y puesto | Mi trabajo |
 | --- | --- |
-| Yazaki · abr. 2021–ene. 2024 | Operario de línea de ensamblaje. Encintado de cableado para arneses eléctricos y seguimiento de procedimientos de producción. |
-| El Otro Portón · set. 2024–oct. 2026 | Bachero y ayudante de cocina. Apoyo al funcionamiento de la cocina y coordinación con el equipo. |
-| Multiahorro | Reponedor y encargado del sector de lácteos. Reposición y tareas en salón y depósito. |
-| Supermercado USA | Verdulería y reposición en salón. |
-| Disco | Cajero. Atención en caja y cobro de compras. |
-| Carnicería Don Pepe | Aprendiz de carnicero y cajero. |
-| Restaurante Santa Elena | Mozo. Atención en sala y coordinación con cocina. |
-| Pronto | Telecomunicador. Atención telefónica. |
+| Yazaki · Operario de línea de ensamblaje · abr. 2021–ene. 2024 | Encinté cableado para arneses eléctricos y seguí los procedimientos de producción en coordinación con el equipo. |
+| El Otro Portón · Bachero y ayudante de cocina · set. 2024–oct. 2026 | Apoyé el funcionamiento de la cocina y coordiné tareas con el equipo. |
+| Multiahorro · Reponedor y encargado del sector de lácteos | Me encargué de la reposición y de tareas en salón y depósito. |
+| Supermercado USA · Verdulería y reposición | Trabajé en verdulería y en la reposición del salón. |
+| Disco · Cajero | Atendí en caja y realicé el cobro de compras. |
+| Carnicería Don Pepe · Aprendiz de carnicero y cajero | Trabajé como aprendiz de carnicero y atendí en caja. |
+| Restaurante Santa Elena · Mozo | Atendí en sala y me coordiné con cocina. |
+| Pronto · Telecomunicador | Trabajé en atención telefónica. |
 
-Disco y Don Pepe son empleos separados. No añadir soporte técnico, auditoría, inspección industrial o tareas que no estén confirmadas.
+## Mi formación e idiomas
 
-## Educación e idiomas
+Aprobé **Desarrollo Web en Jóvenes a Programar, Ceibal, en 2025**, con un promedio final de **86 %**. Trabajé con HTML, CSS, JavaScript, diseño adaptable e introducción a APIs web.
+
+Actualmente curso **Ciberseguridad, Ciencia de Datos y Machine Learning en Python en UTEC**, con finalización prevista en mayo de 2027. Estoy matriculado en **Analista Programador en CTC** para comenzar en 2027. Completé el bachillerato en el Liceo N.º 1 Juan Luis Perrou.
+
+Mi idioma nativo es el español. En Voxy, en 2025, obtuve **Low Intermediate** como nivel general de inglés, **Intermediate** en expresión oral y **High Beginner** en lectura. Continúo practicando el idioma.
+
+## Mi presentación breve
 
 ```text
-Desarrollo Web — Jóvenes a Programar, Ceibal
-2025 · Curso aprobado · Promedio final: 86 %
-HTML, CSS, JavaScript, diseño adaptable e introducción a APIs web.
+Busco mi primera oportunidad en QA manual. Tengo formación en Desarrollo Web y práctica en dos proyectos propios, donde realizo pruebas funcionales, comparo permisos por rol, documento defectos y compruebo correcciones. Uso IA como apoyo para el desarrollo y la documentación; realizo personalmente las pruebas manuales. Vivo en Colonia del Sacramento, Uruguay.
 ```
 
-El certificado aportado está emitido por Ceibal y acredita el curso «Desarrollo Web». El informe usa «Nivel 1 - Técnico Desarrollo Web» como encabezado de evaluación; no convertirlo en un título terciario. La participación de UTEC mencionada por el autor puede ampliarse cuando se disponga de una constancia que detalle esa vinculación.
+## Mis trabajos destacados
 
-Para idiomas: «Inglés: Voxy 2025, nivel general Low Intermediate; expresión oral Intermediate». Si el formulario exige A1–C2, no deducir B1 de este informe: usar una evaluación con esa escala. El informe de lectura indica High Beginner.
-
-Formación actual confirmada por el autor:
-
-- **Ciberseguridad, Ciencia de Datos y Machine Learning en Python — UTEC:** en curso, finalización prevista en mayo de 2027.
-- **Analista Programador — CTC:** matriculado para comenzar en 2027. No presentarlo como una carrera ya iniciada o terminada.
-
-## Resumen breve para Computrabajo, Get on Board y formularios
+**Portafolio QA manual · Traza y String**
 
 ```text
-Busco mi primera oportunidad en QA manual. Formación en Desarrollo Web y práctica en dos proyectos propios: pruebas funcionales, permisos por rol, documentación de defectos y comprobación de correcciones. Uso IA para apoyar el desarrollo y la documentación; las pruebas manuales las realizo personalmente. Colonia del Sacramento, Uruguay.
-```
-
-Usar el titular anterior, este resumen, el PDF y el enlace del portafolio donde cada formulario los solicite. Revisar el contenido importado del CV antes de enviar.
-
-Get on Board permite crear un perfil y postular a ofertas; completar ubicación y experiencia de forma consistente. [Ayuda oficial](https://www.getonbrd.com/help/how-do-i-get-started-on-get-on-board).
-
-En Breezy el formulario depende de la vacante y de la empresa; no hay un conjunto universal de campos que copiar. [Documentación oficial de los formularios](https://help.breezy.hr/en/articles/5354233-customize-your-application-form).
-
-## Destacados del perfil
-
-**Portafolio QA manual — Traza y String**
-
-```text
-Dos proyectos personales con ejemplos de permisos y audio, reportes de defectos y registros de pruebas. Incluye el alcance del trabajo manual y la asistencia de IA.
+Comparto mis proyectos personales de QA manual, con ejemplos de permisos y audio, reportes de defectos y registros de pruebas. Describo mi trabajo y el uso de IA como apoyo.
 https://github.com/nicodelos24/portfolio-qa
 ```
 
-**String — Pruebas manuales de audio**
+**String · Mis pruebas manuales de audio**
 
 ```text
-Comprobaciones manuales del sonido doble en Android y del ruido al tocar la primera nota, con condiciones y resultados documentados.
+Comprobé correcciones del sonido doble del piano en Android y de un ruido al tocar la primera nota. En estos registros detallo las condiciones y los resultados de mis pruebas.
 https://github.com/nicodelos24/portfolio-qa-string/blob/main/docs/PRUEBAS-MANUALES.md
 ```
 
-## Mensaje de postulación
+## Mi mensaje de postulación
 
 ```text
 Hola, equipo de selección:
 
-Me interesa la vacante de QA manual junior. Aprobé Desarrollo Web en Jóvenes a Programar y estoy buscando mi primera experiencia laboral en QA.
+Me interesa la vacante de QA manual junior. Aprobé Desarrollo Web en Jóvenes a Programar y busco mi primera experiencia laboral en QA.
 
-En dos proyectos propios realizo pruebas manuales y documento problemas. Mi portafolio incluye ejemplos de permisos por rol y comprobación de correcciones de audio. Uso IA como apoyo en desarrollo y documentación, y distingo ese trabajo de mis pruebas manuales.
+En dos proyectos propios realizo pruebas manuales y documento problemas. Mi portafolio incluye ejemplos de permisos por rol y comprobación de correcciones de audio. Uso IA como apoyo para el desarrollo y la documentación, y distingo ese trabajo de mis pruebas manuales.
 
-Adjunto mi CV y comparto el portafolio: https://github.com/nicodelos24/portfolio-qa
+Adjunto mi CV y comparto mi portafolio: https://github.com/nicodelos24/portfolio-qa
 
 Me gustaría conversar sobre cómo puedo aportar al equipo y seguir aprendiendo.
 
@@ -124,12 +103,8 @@ Gracias por su tiempo.
 Nicolás De Los Santos Leal
 ```
 
-Antes de enviarlo, sustituir el nombre genérico de la vacante por el real y añadir una frase sobre una responsabilidad concreta del aviso que pueda respaldar. No afirmar experiencia en una herramienta solo porque figure en los proyectos.
-
-## Cómo explicar mi interés en QA
+## Por qué me interesa QA
 
 ```text
-Al crear mis aplicaciones descubrí que me interesa especialmente probar cómo funcionan, encontrar problemas y comprobar si se resolvieron. Quiero convertir esa práctica en mi primer trabajo en QA y aprender a hacerlo dentro de un equipo.
+Al crear mis aplicaciones descubrí que me interesa especialmente probar cómo funcionan, encontrar problemas y comprobar si se resolvieron. Quiero convertir esa práctica en mi primer trabajo en QA y aprender a desarrollarla dentro de un equipo.
 ```
-
-Las herramientas se mencionan junto a su uso real. Gestionar repositorios con GitHub Desktop y haber probado Katalon Recorder puntualmente no equivale a dominar Git por terminal o automatización. No hace falta una lista de tecnologías para aparentar más experiencia.

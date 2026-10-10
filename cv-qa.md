@@ -16,38 +16,38 @@ Busco mi primera oportunidad laboral en QA. Tengo formación en desarrollo web y
 
 https://github.com/nicodelos24/qa-traza/tree/main
 
-- Pruebas funcionales de costos, pedidos, inventario, navegación y permisos por rol.
-- Hallazgo destacado: Finanzas seguía accesible por su dirección aunque el menú ocultara la opción al rol de cocina.
-- Documentación disponible: 59 casos identificados y 10 reportes desarrollados; organización y redacción con asistencia de IA.
+- Realizo pruebas funcionales de costos, pedidos, inventario, navegación y permisos por rol.
+- Detecté que podía abrir Finanzas desde su dirección aunque el menú ocultara la opción al rol de cocina.
+- Comparto 59 casos identificados y 10 reportes; los organizo y redacto con asistencia de IA.
 
 **String — Práctica de guitarra y bajo**
 
 https://github.com/nicodelos24/portfolio-qa-string
 
-- Exploración manual del producto y comprobación de correcciones de audio, incluido sonido doble en Android.
-- Registro de pruebas manuales y seguimiento de historias, casos y defectos.
-- Las verificaciones automáticas del proyecto se desarrollaron con asistencia de IA; mi foco es el testing manual.
+- Exploro el producto y compruebo correcciones de audio, incluido el sonido doble en Android.
+- Registro mis pruebas manuales y doy seguimiento a historias, casos y defectos.
+- Centro mi trabajo en QA manual y lo distingo de las verificaciones automáticas asistidas por IA.
 
 ## Experiencia laboral previa
 
-**Yazaki — Operario de línea de ensamblaje · abr. 2021–ene. 2024.** Encintado de cableado para arneses eléctricos; trabajo coordinado y seguimiento de procedimientos bajo filosofía Cero Defecto.
+**Yazaki — Operario de línea de ensamblaje · abr. 2021–ene. 2024.** Encinté cableado para arneses eléctricos y seguí procedimientos bajo filosofía Cero Defecto.
 
-**El Otro Portón — Bachero y ayudante de cocina · set. 2024–oct. 2026.** Apoyo al funcionamiento de la cocina y coordinación de tareas con el equipo.
+**El Otro Portón — Bachero y ayudante de cocina · set. 2024–oct. 2026.** Apoyé el funcionamiento de la cocina y coordiné tareas con el equipo.
 
-**Multiahorro — Reponedor y encargado del sector de lácteos.** Reposición y tareas en salón y depósito.
+**Multiahorro — Reponedor y encargado del sector de lácteos.** Me encargué de la reposición y de tareas en salón y depósito.
 
-**Otros puestos:** caja en Disco; aprendiz de carnicero y caja en Don Pepe; verdulería y reposición en Supermercado USA; servicio de mesa en Santa Elena; telecomunicador en Pronto.
+**Otros puestos:** trabajé en caja en Disco; como aprendiz de carnicero y cajero en Don Pepe; en verdulería y reposición en Supermercado USA; en servicio de mesa en Santa Elena; y como telecomunicador en Pronto.
 
 ## Formación
 
-**Desarrollo Web — Jóvenes a Programar, Ceibal · 2025.** Aprobado; promedio final 86 %. HTML, CSS, JavaScript, diseño adaptable e introducción a APIs web.
+**Desarrollo Web — Jóvenes a Programar, Ceibal · 2025.** Aprobé el curso con un promedio final de 86 %. Me formé en HTML, CSS, JavaScript, diseño adaptable e introducción a APIs web.
 
-**Ciberseguridad, Ciencia de Datos y Machine Learning en Python — UTEC.** En curso; finalización prevista: mayo de 2027.
+**Ciberseguridad, Ciencia de Datos y Machine Learning en Python — UTEC.** Actualmente curso esta formación; finalización prevista: mayo de 2027.
 
-**Analista Programador — CTC.** Matriculado para comenzar en 2027.
+**Analista Programador — CTC.** Estoy matriculado para comenzar en 2027.
 
 **Bachillerato aprobado — Liceo N.º 1 Juan Luis Perrou.**
 
 ## Idiomas
 
-Español nativo. Inglés: Voxy 2025, nivel general Low Intermediate; expresión oral Intermediate. En práctica continua.
+Mi idioma nativo es el español. En Voxy 2025 obtuve Low Intermediate en inglés general e Intermediate en expresión oral. Continúo practicando.
