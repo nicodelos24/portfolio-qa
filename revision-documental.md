@@ -4,7 +4,7 @@
 
 Revisión del contenido y del historial del portafolio central hasta `0772d44`, incluidos los cambios locales previos en README y textos de perfiles. Se contrastaron los registros de Traza (`e2d0d24`) y String (`d4e0c47`), sus historiales y documentación relevante de los productos. No se ejecutaron nuevamente las aplicaciones ni se realizaron pruebas manuales del producto en esta revisión.
 
-También se consultaron el CV original aportado en DOCX y el informe de desempeño con certificado de Jóvenes a Programar. Se conserva el original local; la versión de postulación se redactó de nuevo. No se publican la cédula, fecha de nacimiento ni el teléfono de la referencia laboral incluidos en los adjuntos.
+También se consultaron el CV original aportado en DOCX y el informe de desempeño con certificado de Jóvenes a Programar. El CV original y el informe se conservan localmente en `privado/fuentes/`, excluido de Git; la versión de postulación se redactó de nuevo. No se publican la cédula, fecha de nacimiento ni el teléfono de la referencia laboral incluidos en los adjuntos.
 
 ## Correcciones principales
 
@@ -41,3 +41,13 @@ Español neutro, ejemplos concretos y foco en QA manual inicial. Se eliminan com
 ## Pendientes para completar los perfiles
 
 Confirmar las fechas de los demás empleos y el curso de testing de Udemy. Las fechas de Yazaki y El Otro Portón, el curso actual de UTEC y la matrícula de CTC para 2027 fueron confirmados por el autor durante esta revisión. La formación y experiencia omitidas del CV abreviado siguen referenciadas en el [plan personal](plan-de-formacion.md). No se modificaron perfiles en plataformas de empleo ni se enviaron postulaciones.
+
+## Cierre: CV elegido y organización
+
+El autor eligió `CV-Nicolas-.pdf`: primera foto mejorada con IA, ampliada a 3,6 cm. Ese PDF se incorpora sin alterar sus bytes como `cv/CV-Nicolas-De-Los-Santos-QA.pdf`, junto al HTML correspondiente, la fotografía elegida y su prompt. El [registro del CV](cv/README.md) documenta la selección y su hash.
+
+Se centralizan en este repositorio los archivos útiles de la revisión. Los adjuntos personales originales, los respaldos de documentación y los scripts históricos de preparación quedan en `privado/`, ignorado por Git. Los scripts históricos se conservan como registro, no como instrucciones de mantenimiento: contienen rutas y estados de trabajo anteriores.
+
+Las variantes de foto y CV descartadas se eliminan de las carpetas de comparación y temporales de esta sesión. No se alteran los repositorios de Traza o String ni el historial Git del portafolio. Las discrepancias de evidencia de Traza siguen pendientes en su repositorio de origen; no se inventaron registros para completarlas.
+
+La comprobación final cubre enlaces internos, presencia de la foto elegida en el HTML y el PDF, una página A4, correspondencia del texto entre Markdown, HTML y PDF, y exclusión de materiales privados de Git. No constituye una nueva ejecución de pruebas de las aplicaciones.

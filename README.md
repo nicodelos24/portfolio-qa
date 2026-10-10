@@ -4,7 +4,7 @@
 
 Colonia del Sacramento, Uruguay · [Correo](mailto:nicodelos24@gmail.com) · [GitHub](https://github.com/nicodelos24)
 
-[Currículum](cv-qa.md) · [CV en PDF](cv/CV-Nicolas-De-Los-Santos-QA.pdf) · [Perfil y forma de trabajo](perfil-qa.md)
+[Currículum](cv-qa.md) · [CV definitivo en PDF](cv/CV-Nicolas-De-Los-Santos-QA.pdf) · [Perfil y forma de trabajo](perfil-qa.md)
 
 ## Dos ejemplos de mi trabajo
 
@@ -54,3 +54,12 @@ Actualmente curso **Ciberseguridad, Ciencia de Datos y Machine Learning en Pytho
 Me interesa incorporarme a un equipo como QA manual trainee o junior, aprender sus procesos y aportar pruebas cuidadosas y reportes claros.
 
 **Nicolás De Los Santos Leal** · [nicodelos24@gmail.com](mailto:nicodelos24@gmail.com)
+
+## Documentos para postular
+
+- [Currículum definitivo y archivos de edición](cv/README.md).
+- [Textos para LinkedIn y otras plataformas](cv-y-perfiles.md).
+- [Plan de formación y datos por completar](plan-de-formacion.md).
+- [Revisión documental y alcance de la evidencia](revision-documental.md).
+
+La versión pública contiene el material de postulación. Los adjuntos personales y respaldos documentales de trabajo se conservan localmente en `privado/`, excluido de Git. Para comprobar los enlaces internos y los archivos del CV: `python3 herramientas/verificar-portfolio.py` (requiere Python 3 y las utilidades de Poppler).
